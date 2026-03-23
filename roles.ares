@@ -424,3 +424,63 @@ bmc_ode8_pe_canon2 = "bmc_ode8_pe_canon2"
 emc_ode8_pe_canon2 = "emc_ode8_pe_canon2"
 bmc_ode9_pe_canon2 = "bmc_ode9_pe_canon2"
 emc_ode9_pe_canon2 = "emc_ode9_pe_canon2"
+
+//customizable content
+bcc_li_enarxis = "bcc_li_enarxis"
+ecc_li_enarxis = "ecc_li_enarxis"
+bcc_hli_enarxis = "bcc_hli_enarxis"
+ecc_hli_enarxis = "ecc_hli_enarxis"
+
+bcc_li_smallentrance = "bcc_li_smallentrance"
+ecc_li_smallentrance = "ecc_li_smallentrance"
+bcc_hli_smallentrance = "bcc_hli_smallentrance"
+ecc_hli_smallentrance = "ecc_hli_smallentrance"
+
+bcc_li_trisagion = "bcc_li_trisagion"
+ecc_li_trisagion = "ecc_li_trisagion"
+bcc_hli_trisagion = "bcc_hli_trisagion"
+ecc_hli_trisagion = "ecc_hli_trisagion"
+
+bcc_hli_fimi = "bcc_hli_fimi"
+ecc_hli_fimi = "ecc_hli_fimi"
+
+bcc_li_greatentrance = "bcc_li_greatentrance"
+ecc_li_greatentrance = "ecc_li_greatentrance"
+bcc_hli_greatentrance = "bcc_hli_greatentrance"
+ecc_hli_greatentrance = "ecc_hli_greatentrance"
+
+bcc_li_commemorations = "bcc_li_commemorations"
+ecc_li_commemorations = "ecc_li_commemorations"
+bcc_hli_commemorations = "bcc_hli_commemorations"
+ecc_hli_commemorations = "ecc_hli_commemorations"
+
+bcc_li_clergycommunion= "bcc_li_clergycommunion"
+ecc_li_clergycommunion= "ecc_li_clergycommunion"
+bcc_hli_clergycommunion= "bcc_hli_clergycommunion"
+ecc_hli_clergycommunion= "ecc_hli_clergycommunion"
+
+bcc_li_communion= "bcc_li_communion"
+ecc_li_communion= "ecc_li_communion"
+bcc_hli_communion= "bcc_hli_communion"
+ecc_hli_communion= "ecc_hli_communion"
+
+bcc_li_hymnforcelebrant = "bcc_li_hymnforcelebrant"
+ecc_li_hymnforcelebrant = "ecc_li_hymnforcelebrant"
+bcc_hli_hymnforcelebrant = "bcc_hli_hymnforcelebrant"
+ecc_hli_hymnforcelebrant = "ecc_hli_hymnforcelebrant"
+
+bcc_ord_subdeacon = "bcc_ord_subdeacon"
+ecc_ord_subdeacon = "ecc_ord_subdeacon"
+
+bcc_ord_deacon_1 = "bcc_ord_deacon_1"
+ecc_ord_deacon_1 = "ecc_ord_deacon_1"
+
+bcc_ord_priest_1 = "bcc_ord_priest_1"
+ecc_ord_priest_1 = "ecc_ord_priest_1"
+
+bcc_ord_priest_2 = "bcc_ord_priest_2"
+ecc_ord_priest_2 = "ecc_ord_priest_2"
+
+bcc_ord_priest_3 = "bcc_ord_priest_3"
+ecc_ord_priest_3 = "ecc_ord_priest_3"
+
