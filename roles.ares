@@ -474,6 +474,12 @@ ecc_li_liturgy = "ecc_li_liturgy"
 bcc_hli_liturgy = "bcc_hli_liturgy"
 ecc_hli_liturgy = "ecc_hli_liturgy"
 
+bcc_hli_ordination_deacon = "bcc_hli_ordination_deacon"
+ecc_hli_ordination_deacon = "ecc_hli_ordination_deacon"
+
+bcc_hli_ordination_priest = "bcc_hli_ordination_priest"
+ecc_hli_ordination_priest = "ecc_hli_ordination_priest"
+
 bcc_li_dismissal = "bcc_li_dismissal"
 ecc_li_dismissal = "ecc_li_dismissal"
 bcc_hli_dismissal = "bcc_hli_dismissal"
