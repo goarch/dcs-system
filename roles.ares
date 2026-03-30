@@ -431,6 +431,11 @@ ecc_ma = "ecc_ma"
 bcc_hma = "bcc_ma"
 ecc_hma = "ecc_ma"
 
+bcc_ma_matins = "bcc_ma_matins"
+ecc_ma_matins = "ecc_ma_matins"
+bcc_hma_matins = "bcc_ma_matins"
+ecc_hma_matins = "ecc_ma_matins"
+
 bcc_hma_kairo = "bcc_ma_kairo"
 ecc_hma_kairo = "ecc_ma_kairo"
 
