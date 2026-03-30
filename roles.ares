@@ -426,10 +426,6 @@ bmc_ode9_pe_canon2 = "bmc_ode9_pe_canon2"
 emc_ode9_pe_canon2 = "emc_ode9_pe_canon2"
 
 //customizable content
-bcc_ma = "bcc_ma"
-ecc_ma = "ecc_ma"
-bcc_hma = "bcc_ma"
-ecc_hma = "ecc_ma"
 
 bcc_ma_matins = "bcc_ma_matins"
 ecc_ma_matins = "ecc_ma_matins"
@@ -487,10 +483,25 @@ ecc_li_readings = "ecc_li_readings"
 bcc_hli_readings = "bcc_hli_readings"
 ecc_hli_readings = "ecc_hli_readings"
 
+bcc_li_opt_litanies = "bcc_li_opt_litanies"
+ecc_li_opt_litanies = "ecc_li_opt_litanies"
+bcc_hli_opt_litanies = "bcc_hli_opt_litanies"
+ecc_hli_opt_litanies = "ecc_hli_opt_litanies"
+
 bcc_li_liturgy = "bcc_li_liturgy"
 ecc_li_liturgy = "ecc_li_liturgy"
 bcc_hli_liturgy = "bcc_hli_liturgy"
 ecc_hli_liturgy = "ecc_hli_liturgy"
+
+bcc_li_opt_precommunionprayers = "bcc_li_opt_precommunionprayers"
+ecc_li_opt_precommunionprayers = "ecc_li_opt_precommunionprayers"
+bcc_hli_opt_precommunionprayers = "bcc_hli_opt_precommunionprayers"
+ecc_hli_opt_precommunionprayers = "ecc_hli_opt_precommunionprayers"
+
+bcc_li_opt_memorial = "bcc_li_opt_memorial"
+ecc_li_opt_memorial = "ecc_li_opt_memorial"
+bcc_hli_opt_memorial = "bcc_hli_opt_memorial"
+ecc_hli_opt_memorial = "ecc_hli_opt_memorial"
 
 bcc_hli_ordination_deacon = "bcc_hli_ordination_deacon"
 ecc_hli_ordination_deacon = "ecc_hli_ordination_deacon"
