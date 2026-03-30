@@ -426,6 +426,19 @@ bmc_ode9_pe_canon2 = "bmc_ode9_pe_canon2"
 emc_ode9_pe_canon2 = "emc_ode9_pe_canon2"
 
 //customizable content
+bcc_ma = "bcc_ma"
+ecc_ma = "ecc_ma"
+bcc_hma = "bcc_ma"
+ecc_hma = "ecc_ma"
+
+bcc_hma_kairo = "bcc_ma_kairo"
+ecc_hma_kairo = "ecc_ma_kairo"
+
+bcc_ma_lauds_stichologia = "bcc_ma_lauds_stichologia"
+ecc_ma_lauds_stichologia = "ecc_ma_lauds_stichologia"
+bcc_hma_lauds_stichologia = "bcc_ma_lauds_stichologia"
+ecc_hma_lauds_stichologia = "ecc_ma_lauds_stichologia"
+
 bcc_li_enarxis = "bcc_li_enarxis"
 ecc_li_enarxis = "ecc_li_enarxis"
 bcc_hli_enarxis = "bcc_hli_enarxis"
