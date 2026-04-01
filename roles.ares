@@ -509,6 +509,9 @@ ecc_hli_ordination_deacon = "ecc_hli_ordination_deacon"
 bcc_hli_ordination_priest = "bcc_hli_ordination_priest"
 ecc_hli_ordination_priest = "ecc_hli_ordination_priest"
 
+bcc_hli_ordination_priest_and_deacon = "bcc_hli_ordination_priest_and_deacon"
+ecc_hli_ordination_priest_and_deacon = "ecc_hli_ordination_priest_and_deacon"
+
 bcc_li_dismissal = "bcc_li_dismissal"
 ecc_li_dismissal = "ecc_li_dismissal"
 bcc_hli_dismissal = "bcc_hli_dismissal"
