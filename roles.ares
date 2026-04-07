@@ -520,64 +520,31 @@ ecc_hli_dismissal = "ecc_hli_dismissal"
 bcc_ord_subdeacon = "bcc_ord_subdeacon"
 ecc_ord_subdeacon = "ecc_ord_subdeacon"
 
-bcc_ord_deacon_1 = "bcc_ord_deacon_1"
-ecc_ord_deacon_1 = "ecc_ord_deacon_1"
+bcc_cli_liturgy = "bcc_cli_liturgy"
+ecc_cli_liturgy = "ecc_cli_liturgy"
 
-bcc_ord_priest_1 = "bcc_ord_priest_1"
-ecc_ord_priest_1 = "ecc_ord_priest_1"
+bcc_cli_select_epistle_con = "bcc_cli_select_epistle_con"
+ecc_cli_select_epistle_con = "ecc_cli_select_epistle_con"
 
-bcc_ord_priest_2 = "bcc_ord_priest_2"
-ecc_ord_priest_2 = "ecc_ord_priest_2"
+bcc_cli_select_epistle_day = "bcc_cli_select_epistle_day"
+ecc_cli_select_epistle_day = "ecc_cli_select_epistle_day"
 
-bcc_ord_priest_3 = "bcc_ord_priest_3"
-ecc_ord_priest_3 = "ecc_ord_priest_3"
+bcc_cli_select_epistle_me = "bcc_cli_select_epistle_me"
+ecc_cli_select_epistle_me = "ecc_cli_select_epistle_me"
 
-bcc_hir_goa_ecu = "bcc_hir_goa_ecu"
-ecc_hir_goa_ecu = "ecc_hir_goa_ecu"
+bcc_cli_select_gospel_con = "bcc_cli_select_gospel_con"
+ecc_cli_select_gospel_con = "ecc_cli_select_gospel_con"
 
-bcc_hir_goa_ame = "bcc_hir_goa_ame"
-ecc_hir_goa_ame = "ecc_hir_goa_ame"
+bcc_cli_select_gospel_day = "bcc_cli_select_gospel_day"
+ecc_cli_select_gospel_day = "ecc_cli_select_gospel_day"
 
-bcc_hir_goa_atl = "bcc_hir_goa_atl"
-ecc_hir_goa_atl = "ecc_hir_goa_atl"
+bcc_cli_select_gospel_me = "bcc_cli_select_gospel_me"
+ecc_cli_select_gospel_me = "ecc_cli_select_gospel_me"
 
-bcc_hir_goa_bos = "bcc_hir_goa_bos"
-ecc_hir_goa_bos = "ecc_hir_goa_bos"
+bcc_cli_opt_additional_metropolitan = "bcc_cli_opt_additional_metropolitan"
+ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
 
-bcc_hir_goa_chi = "bcc_hir_goa_chi"
-ecc_hir_goa_chi = "ecc_hir_goa_chi"
-
-bcc_hir_goa_den = "bcc_hir_goa_den"
-ecc_hir_goa_den = "ecc_hir_goa_den"
-
-bcc_hir_goa_det = "bcc_hir_goa_det"
-ecc_hir_goa_det = "ecc_hir_goa_det"
-
-bcc_hir_goa_new = "bcc_hir_goa_new"
-ecc_hir_goa_new = "ecc_hir_goa_new"
-
-bcc_hir_goa_pit = "bcc_hir_goa_pit"
-ecc_hir_goa_pit = "ecc_hir_goa_pit"
-
-bcc_hir_goa_san = "bcc_hir_goa_san"
-ecc_hir_goa_san = "ecc_hir_goa_san"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+bcc_cli_opt_additional_bishop = "bcc_cli_opt_additional_bishop"
+ecc_cli_opt_additional_bishop = "ecc_cli_opt_additional_bishop"
 
 
