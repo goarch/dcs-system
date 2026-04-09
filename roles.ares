@@ -525,26 +525,17 @@ ecc_li_dismissal = "ecc_li_dismissal"
 bcc_hli_dismissal = "bcc_hli_dismissal"
 ecc_hli_dismissal = "ecc_hli_dismissal"
 
-bcc_cli_liturgy = "bcc_cli_liturgy"
-ecc_cli_liturgy = "ecc_cli_liturgy"
-
 bcc_cli_select_epistle_con = "bcc_cli_select_epistle_con"
 ecc_cli_select_epistle_con = "ecc_cli_select_epistle_con"
 
-bcc_cli_select_epistle_day = "bcc_cli_select_epistle_day"
-ecc_cli_select_epistle_day = "ecc_cli_select_epistle_day"
-
-bcc_cli_select_epistle_me = "bcc_cli_select_epistle_me"
-ecc_cli_select_epistle_me = "ecc_cli_select_epistle_me"
+bcc_cli_copy_epistle = "bcc_cli_copy_epistle"
+ecc_cli_copy_epistle = "ecc_cli_copy_epistle"
 
 bcc_cli_select_gospel_con = "bcc_cli_select_gospel_con"
 ecc_cli_select_gospel_con = "ecc_cli_select_gospel_con"
 
-bcc_cli_select_gospel_day = "bcc_cli_select_gospel_day"
-ecc_cli_select_gospel_day = "ecc_cli_select_gospel_day"
-
-bcc_cli_select_gospel_me = "bcc_cli_select_gospel_me"
-ecc_cli_select_gospel_me = "ecc_cli_select_gospel_me"
+bcc_cli_copy_gospel = "bcc_cli_copy_gospel"
+ecc_cli_copy_gospel = "ecc_cli_copy_gospel"
 
 bcc_cli_opt_additional_metropolitan = "bcc_cli_opt_additional_metropolitan"
 ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
@@ -552,4 +543,14 @@ ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
 bcc_cli_opt_additional_bishop = "bcc_cli_opt_additional_bishop"
 ecc_cli_opt_additional_bishop = "ecc_cli_opt_additional_bishop"
 
+bcc_cli_copy_enarxis = "bcc_cli_copy_enarxis"
+ecc_cli_copy_enarxis = "ecc_cli_copy_enarxis"
 
+bcc_cli_copy_trisagion = "bcc_cli_copy_trisagion"
+ecc_cli_copy_trisagion = "ecc_cli_copy_trisagion"
+
+bcc_cli_copy_theotokoshymn = "bcc_cli_copy_theotokoshymn"
+ecc_cli_copy_theotokoshymn = "ecc_cli_copy_theotokoshymn"
+
+bcc_cli_copy_dismissal = "bcc_cli_copy_dismissal"
+ecc_cli_copy_dismissal = "ecc_cli_copy_dismissal"
