@@ -429,16 +429,24 @@ emc_ode9_pe_canon2 = "emc_ode9_pe_canon2"
 
 bcc_ma_matins = "bcc_ma_matins"
 ecc_ma_matins = "ecc_ma_matins"
-bcc_hma_matins = "bcc_ma_matins"
-ecc_hma_matins = "ecc_ma_matins"
+bcc_hma_matins = "bcc_hma_matins"
+ecc_hma_matins = "ecc_hma_matins"
 
-bcc_hma_kairo = "bcc_ma_kairo"
-ecc_hma_kairo = "ecc_ma_kairo"
+bcc_hma_ordination_subdeacon = "bcc_hma_ordination_subdeacon"
+ecc_hma_ordination_subdeacon = "ecc_hma_ordination_subdeacon"
 
-bcc_ma_lauds_stichologia = "bcc_ma_lauds_stichologia"
-ecc_ma_lauds_stichologia = "ecc_ma_lauds_stichologia"
-bcc_hma_lauds_stichologia = "bcc_ma_lauds_stichologia"
-ecc_hma_lauds_stichologia = "ecc_ma_lauds_stichologia"
+bcc_hma_opt_kairo = "bcc_hma_opt_kairo"
+ecc_hma_opt_kairo = "ecc_hma_opt_kairo"
+
+bcc_ma_opt_lauds_stichologia = "bcc_ma_lauds_opt_stichologia"
+ecc_ma_opt_lauds_stichologia = "ecc_ma_lauds_opt_stichologia"
+bcc_hma_opt_lauds_stichologia = "bcc_hma_lauds_opt_stichologia"
+ecc_hma_opt_lauds_stichologia = "ecc_hma_lauds_opt_stichologia"
+
+bcc_ma_opt_dismissal = "bcc_ma_opt_dismissal"
+ecc_ma_opt_dismissal = "ecc_ma_opt_dismissal"
+bcc_hma_opt_dismissal = "bcc_hma_opt_dismissal"
+ecc_hma_opt_dismissal = "ecc_hma_opt_dismissal"
 
 bcc_li_enarxis = "bcc_li_enarxis"
 ecc_li_enarxis = "ecc_li_enarxis"
@@ -516,9 +524,6 @@ bcc_li_dismissal = "bcc_li_dismissal"
 ecc_li_dismissal = "ecc_li_dismissal"
 bcc_hli_dismissal = "bcc_hli_dismissal"
 ecc_hli_dismissal = "ecc_hli_dismissal"
-
-bcc_ord_subdeacon = "bcc_ord_subdeacon"
-ecc_ord_subdeacon = "ecc_ord_subdeacon"
 
 bcc_cli_liturgy = "bcc_cli_liturgy"
 ecc_cli_liturgy = "ecc_cli_liturgy"
