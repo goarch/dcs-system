@@ -525,6 +525,12 @@ ecc_li_dismissal = "ecc_li_dismissal"
 bcc_hli_dismissal = "bcc_hli_dismissal"
 ecc_hli_dismissal = "ecc_hli_dismissal"
 
+bcc_cli_copy_enarxis = "bcc_cli_copy_enarxis"
+ecc_cli_copy_enarxis = "ecc_cli_copy_enarxis"
+
+bcc_cli_copy_trisagion = "bcc_cli_copy_trisagion"
+ecc_cli_copy_trisagion = "ecc_cli_copy_trisagion"
+
 bcc_cli_select_epistle_con = "bcc_cli_select_epistle_con"
 ecc_cli_select_epistle_con = "ecc_cli_select_epistle_con"
 
@@ -542,12 +548,6 @@ ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
 
 bcc_cli_opt_additional_bishop = "bcc_cli_opt_additional_bishop"
 ecc_cli_opt_additional_bishop = "ecc_cli_opt_additional_bishop"
-
-bcc_cli_copy_enarxis = "bcc_cli_copy_enarxis"
-ecc_cli_copy_enarxis = "ecc_cli_copy_enarxis"
-
-bcc_cli_copy_trisagion = "bcc_cli_copy_trisagion"
-ecc_cli_copy_trisagion = "ecc_cli_copy_trisagion"
 
 bcc_cli_copy_theotokoshymn = "bcc_cli_copy_theotokoshymn"
 ecc_cli_copy_theotokoshymn = "ecc_cli_copy_theotokoshymn"
