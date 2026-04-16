@@ -554,3 +554,13 @@ ecc_cli_copy_theotokoshymn = "ecc_cli_copy_theotokoshymn"
 
 bcc_cli_copy_dismissal = "bcc_cli_copy_dismissal"
 ecc_cli_copy_dismissal = "ecc_cli_copy_dismissal"
+
+brc_matinsordinary_paschal = "brc_matinsordinary_paschal"
+erc_matinsordinary_paschal = "erc_matinsordinary_paschal"
+
+brc_matinsordinary_ascension = "brc_matinsordinary_ascension"
+erc_matinsordinary_ascension = "erc_matinsordinary_ascension"
+
+brc_matinsordinary_normal = "brc_matinsordinary_normal"
+erc_matinsordinary_normal = "erc_matinsordinary_normal"
+
