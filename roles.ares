@@ -525,35 +525,11 @@ ecc_li_dismissal = "ecc_li_dismissal"
 bcc_hli_dismissal = "bcc_hli_dismissal"
 ecc_hli_dismissal = "ecc_hli_dismissal"
 
-bcc_cli_copy_enarxis = "bcc_cli_copy_enarxis"
-ecc_cli_copy_enarxis = "ecc_cli_copy_enarxis"
-
-bcc_cli_copy_trisagion = "bcc_cli_copy_trisagion"
-ecc_cli_copy_trisagion = "ecc_cli_copy_trisagion"
-
-bcc_cli_select_epistle_con = "bcc_cli_select_epistle_con"
-ecc_cli_select_epistle_con = "ecc_cli_select_epistle_con"
-
-bcc_cli_copy_epistle = "bcc_cli_copy_epistle"
-ecc_cli_copy_epistle = "ecc_cli_copy_epistle"
-
-bcc_cli_select_gospel_con = "bcc_cli_select_gospel_con"
-ecc_cli_select_gospel_con = "ecc_cli_select_gospel_con"
-
-bcc_cli_copy_gospel = "bcc_cli_copy_gospel"
-ecc_cli_copy_gospel = "ecc_cli_copy_gospel"
-
 bcc_cli_opt_additional_metropolitan = "bcc_cli_opt_additional_metropolitan"
 ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
 
 bcc_cli_opt_additional_bishop = "bcc_cli_opt_additional_bishop"
 ecc_cli_opt_additional_bishop = "ecc_cli_opt_additional_bishop"
-
-bcc_cli_copy_theotokoshymn = "bcc_cli_copy_theotokoshymn"
-ecc_cli_copy_theotokoshymn = "ecc_cli_copy_theotokoshymn"
-
-bcc_cli_copy_dismissal = "bcc_cli_copy_dismissal"
-ecc_cli_copy_dismissal = "ecc_cli_copy_dismissal"
 
 brc_matinsordinary_paschal = "brc_matinsordinary_paschal"
 erc_matinsordinary_paschal = "erc_matinsordinary_paschal"
@@ -563,4 +539,28 @@ erc_matinsordinary_ascension = "erc_matinsordinary_ascension"
 
 brc_matinsordinary_normal = "brc_matinsordinary_normal"
 erc_matinsordinary_normal = "erc_matinsordinary_normal"
+
+brc_conli_part1 = "brc_conli_part1"
+erc_conli_part1 = "erc_conli_part1"
+
+brc_conli_epistle = "brc_conli_epistle"
+erc_conli_epistle = "erc_conli_epistle"
+
+brc_conli_gospel = "brc_conli_gospel"
+erc_conli_gospel = "erc_conli_gospel"
+
+brc_conli_cherubic = "brc_conli_cherubic"
+erc_conli_cherubic = "erc_conli_cherubic"
+
+brc_conli_additional_metropolitan = "brc_conli_additional_metropolitan"
+erc_conli_additional_metropolitan = "erc_conli_additional_metropolitan"
+
+brc_conli_additional_bishop = "brc_conli_additional_bishop"
+erc_conli_additional_bishop = "erc_conli_additional_bishop"
+
+brc_conli_priests_for_bishop = "brc_conli_clergy_for_bishop"
+erc_conli_priests_for_bishop = "erc_conli_clergy_for_bishop"
+
+brc_conli_communionhymn = "brc_conli_communionhymn"
+erc_conli_communionhymn = "erc_conli_communionhymn"
 
