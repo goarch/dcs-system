@@ -450,8 +450,10 @@ ecc_hma_opt_dismissal = "ecc_hma_opt_dismissal"
 
 bcc_li_enarxis = "bcc_li_enarxis"
 ecc_li_enarxis = "ecc_li_enarxis"
-bcc_hli_enarxis = "bcc_hli_enarxis"
-ecc_hli_enarxis = "ecc_hli_enarxis"
+bcc_hli_enarxis1 = "bcc_hli_enarxis1"
+ecc_hli_enarxis1 = "ecc_hli_enarxis1"
+bcc_hli_enarxis2 = "bcc_hli_enarxis2"
+ecc_hli_enarxis2 = "ecc_hli_enarxis2"
 
 bcc_li_antiphons = "bcc_li_antiphons"
 ecc_li_antiphons = "ecc_li_antiphons"
@@ -540,6 +542,21 @@ erc_matinsordinary_ascension = "erc_matinsordinary_ascension"
 brc_matinsordinary_normal = "brc_matinsordinary_normal"
 erc_matinsordinary_normal = "erc_matinsordinary_normal"
 
+brc_hli_arch_or_metropolitan = "brc_hli_arch_or_metropolitan"
+erc_hli_arch_or_metropolitan = "erc_hli_arch_or_metropolitan"
+
+brc_hli_bishop = "brc_hli_bishop"
+erc_hli_bishop = "erc_hli_bishop"
+
+brc_hli_additional_metropolitan = "brc_hli_additional_metropolitan"
+erc_hli_additional_metropolitan = "erc_hli_additional_metropolitan"
+
+brc_hli_additional_bishop = "brc_hli_additional_bishop"
+erc_hli_additional_bishop = "erc_hli_additional_bishop"
+
+brc_conli_enarxis = "brc_conli_enarxis"
+erc_conli_enarxis = "erc_conli_enarxis"
+
 brc_conli_part1 = "brc_conli_part1"
 erc_conli_part1 = "erc_conli_part1"
 
@@ -551,15 +568,6 @@ erc_conli_gospel = "erc_conli_gospel"
 
 brc_conli_cherubic = "brc_conli_cherubic"
 erc_conli_cherubic = "erc_conli_cherubic"
-
-brc_conli_additional_metropolitan = "brc_conli_additional_metropolitan"
-erc_conli_additional_metropolitan = "erc_conli_additional_metropolitan"
-
-brc_conli_additional_bishop = "brc_conli_additional_bishop"
-erc_conli_additional_bishop = "erc_conli_additional_bishop"
-
-brc_conli_priests_for_bishop = "brc_conli_clergy_for_bishop"
-erc_conli_priests_for_bishop = "erc_conli_clergy_for_bishop"
 
 brc_conli_communionhymn = "brc_conli_communionhymn"
 erc_conli_communionhymn = "erc_conli_communionhymn"
