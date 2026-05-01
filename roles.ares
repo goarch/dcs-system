@@ -485,6 +485,15 @@ ecc_li_trisagion = "ecc_li_trisagion"
 bcc_hli_trisagion = "bcc_hli_trisagion"
 ecc_hli_trisagion = "ecc_hli_trisagion"
 
+bcc_li_trisagion_holygod = "bcc_li_trisagion_holygod"
+ecc_li_trisagion_holygod = "ecc_li_trisagion_holygod"
+
+bcc_li_trisagion_baptized = "bcc_li_trisagion_baptized"
+ecc_li_trisagion_baptized = "ecc_li_trisagion_baptized"
+
+bcc_li_trisagion_cross = "bcc_li_trisagion_cross"
+ecc_li_trisagion_cross = "ecc_li_trisagion_cross"
+
 bcc_hli_fimi = "bcc_hli_fimi"
 ecc_hli_fimi = "ecc_hli_fimi"
 
@@ -502,6 +511,15 @@ bcc_li_liturgy = "bcc_li_liturgy"
 ecc_li_liturgy = "ecc_li_liturgy"
 bcc_hli_liturgy = "bcc_hli_liturgy"
 ecc_hli_liturgy = "ecc_hli_liturgy"
+
+bcc_hli_greatentrance = "bcc_li_greatentrance"
+ecc_hli_greatentrance = "ecc_li_greatentrance"
+
+bcc_li_kissofpeace = "bcc_li_kissofpeace"
+ecc_li_kissofpeace = "ecc_li_kissofpeace"
+
+bcc_li_opt_extended_comp_litany = "bcc_li_opt_extended_comp_litany"
+ecc_li_opt_extended_comp_litany = "ecc_li_opt_extended_comp_litany"
 
 bcc_li_opt_precommunionprayers = "bcc_li_opt_precommunionprayers"
 ecc_li_opt_precommunionprayers = "ecc_li_opt_precommunionprayers"

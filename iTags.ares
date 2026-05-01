@@ -62,3 +62,14 @@ troparionminusfirstletter = "emphasis,troparionminusfirstletter"
 
 //prayers before communion
 pbc = "emphasis,pbc"
+
+//new for sb
+adebl = "emphasis,adebl" //deacon or blank
+adepr = "emphasis,adepr"
+aprhi = "emphasis,aprhi"
+ddepr = "emphasis,ddepr"
+ddebl = "emphasis,ddebl" //deacon or blank
+dprhi = "emphasis,dprhi"
+dwadebl = "emphasis,dwadebl"
+dwadepr = "emphasis,dwadepr"
+dwaprhi = "emphasis,dwaprhi"
