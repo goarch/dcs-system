@@ -64,9 +64,12 @@ troparionminusfirstletter = "emphasis,troparionminusfirstletter"
 pbc = "emphasis,pbc"
 
 //new for sb
+achclhi = "emphasis,achclhi" //choir or clergy or hierarch
+aclhi = "emphasis,aclhi" //clergy or hierarch
 adebl = "emphasis,adebl" //deacon or blank
 adepr = "emphasis,adepr"
 aprhi = "emphasis,aprhi"
+dclhi = "emphasis,dclhi" //clergy or hierarch
 ddepr = "emphasis,ddepr"
 ddebl = "emphasis,ddebl" //deacon or blank
 dprhi = "emphasis,dprhi"
