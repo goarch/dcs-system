@@ -445,8 +445,11 @@ erc_ma_opt_dismissal = "erc_ma_opt_dismissal"
 
 //service builder content
 
-brc_li_enarxis1 = "brc_li_enarxis1"
-erc_li_enarxis1 = "erc_li_enarxis1"
+brc_li_enarxis_no_deacon = "brc_li_enarxis_no_deacon"
+erc_li_enarxis_no_deacon = "erc_li_enarxis_no_deacon"
+
+brc_li_enarxis_deacon = "brc_li_enarxis_deacon"
+erc_li_enarxis_deacon = "erc_li_enarxis_deacon"
 
 brc_li_smallentrance = "brc_li_smallentrance"
 erc_li_smallentrance = "erc_li_smallentrance"
