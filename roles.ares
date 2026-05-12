@@ -454,11 +454,29 @@ erc_li_enarxis_deacon = "erc_li_enarxis_deacon"
 brc_li_smallentrance = "brc_li_smallentrance"
 erc_li_smallentrance = "erc_li_smallentrance"
 
+brc_li_smallentrance_choir = "brc_li_smallentrance_choir"
+erc_li_smallentrance_choir = "erc_li_smallentrance_choir"
+
+brc_li_smallentrance_clhi = "brc_li_smallentrance_clhi"
+erc_li_smallentrance_clhi = "erc_li_smallentrance_clhi"
+
 brc_li_apolytikion2 = "brc_li_apolytikion2"
 erc_li_apolytikion2 = "erc_li_apolytikion2"
 
+brc_li_apolytikion2_yes = "brc_li_apolytikion2_yes"
+erc_li_apolytikion2_yes = "erc_li_apolytikion2_yes"
+
+brc_li_apolytikion2_no = "brc_li_apolytikion2_no"
+erc_li_apolytikion2_no = "erc_li_apolytikion2_no"
+
 brc_li_kontakion = "brc_li_kontakion"
 erc_li_kontakion = "erc_li_kontakion"
+
+brc_li_kontakion_choir = "brc_li_kontakion_choir"
+erc_li_kontakion_choir = "erc_li_kontakion_choir"
+
+brc_li_kontakion_clhi = "brc_li_kontakion_clhi"
+erc_li_kontakion_clhi = "erc_li_kontakion_clhi"
 
 brc_li_trisagion_baptized = "brc_li_trisagion_baptized"
 erc_li_trisagion_baptized = "erc_li_trisagion_baptized"
@@ -508,14 +526,17 @@ erc_li_gospel = "erc_li_gospel"
 brc_li_great_entrance = "brc_li_great_entrance"
 erc_li_great_entrance = "erc_li_great_entrance"
 
-brc_li_great_entrance_hierarchical = "brc_li_great_entrance_hierarchical"
-erc_li_great_entrance_hierarchical = "erc_li_great_entrance_hierarchical"
+brc_li_hierarchical_great_entrance = "brc_li_hierarchical_great_entrance"
+erc_li_hierarchical_great_entrance = "erc_li_hierarchical_great_entrance"
 
-brc_li_post_cherubic_hierarchical_rubric = "brc_li_post_cherubic_hierarchical_rubric"
-erc_li_post_cherubic_hierarchical_rubric = "erc_li_post_cherubic_hierarchical_rubric"
+brc_li_hierarchical_post_cherubic_rubric = "brc_li_hierarchical_post_cherubic_rubric"
+erc_li_hierarchical_post_cherubic_rubric = "erc_li_hierarchical_post_cherubic_rubric"
 
 brc_li_kissofpeace = "brc_li_kissofpeace"
 erc_li_kissofpeace = "erc_li_kissofpeace"
+
+brc_li_kissofpeace_clhi = "brc_li_kissofpeace_clhi"
+erc_li_kissofpeace_clhi = "erc_li_kissofpeace_clhi"
 
 brc_li_commemoration_hierarch = "brc_li_commemoration_hierarch"
 erc_li_commemoration_hierarch = "erc_li_commemoration_hierarch"
