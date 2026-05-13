@@ -444,6 +444,8 @@ erc_ma_opt_dismissal = "erc_ma_opt_dismissal"
 
 
 //service builder content
+brc_delete = "brc_delete"
+erc_delete = "erc_delete"
 
 brc_li_enarxis_no_deacon = "brc_li_enarxis_no_deacon"
 erc_li_enarxis_no_deacon = "erc_li_enarxis_no_deacon"
@@ -451,29 +453,32 @@ erc_li_enarxis_no_deacon = "erc_li_enarxis_no_deacon"
 brc_li_enarxis_deacon = "brc_li_enarxis_deacon"
 erc_li_enarxis_deacon = "erc_li_enarxis_deacon"
 
-brc_li_smallentrance = "brc_li_smallentrance"
-erc_li_smallentrance = "erc_li_smallentrance"
+brc_li_small_entrance = "brc_li_small_entrance"
+erc_li_small_entrance = "erc_li_small_entrance"
 
-brc_li_smallentrance_choir = "brc_li_smallentrance_choir"
-erc_li_smallentrance_choir = "erc_li_smallentrance_choir"
+//brc_li_smallentrance_choir = "brc_li_smallentrance_choir"
+//erc_li_smallentrance_choir = "erc_li_smallentrance_choir"
 
-brc_li_smallentrance_clhi = "brc_li_smallentrance_clhi"
-erc_li_smallentrance_clhi = "erc_li_smallentrance_clhi"
+brc_li_small_entrance_clhi = "brc_li_small_entrance_clhi"
+erc_li_small_entrance_clhi = "erc_li_small_entrance_clhi"
 
 brc_li_apolytikion2 = "brc_li_apolytikion2"
 erc_li_apolytikion2 = "erc_li_apolytikion2"
 
-brc_li_apolytikion2_yes = "brc_li_apolytikion2_yes"
-erc_li_apolytikion2_yes = "erc_li_apolytikion2_yes"
+//brc_li_apolytikion2_yes = "brc_li_apolytikion2_yes"
+//erc_li_apolytikion2_yes = "erc_li_apolytikion2_yes"
 
-brc_li_apolytikion2_no = "brc_li_apolytikion2_no"
-erc_li_apolytikion2_no = "erc_li_apolytikion2_no"
+//brc_li_apolytikion2_no = "brc_li_apolytikion2_no"
+//erc_li_apolytikion2_no = "erc_li_apolytikion2_no"
+
+brc_li_local_apolytikion = "brc_li_local_apolytikion"
+erc_li_local_apolytikion = "erc_li_local_apolytikion"
 
 brc_li_kontakion = "brc_li_kontakion"
 erc_li_kontakion = "erc_li_kontakion"
 
-brc_li_kontakion_choir = "brc_li_kontakion_choir"
-erc_li_kontakion_choir = "erc_li_kontakion_choir"
+//brc_li_kontakion_choir = "brc_li_kontakion_choir"
+//erc_li_kontakion_choir = "erc_li_kontakion_choir"
 
 brc_li_kontakion_clhi = "brc_li_kontakion_clhi"
 erc_li_kontakion_clhi = "erc_li_kontakion_clhi"
@@ -566,47 +571,47 @@ erc_li_hierarchical_dismissal = "erc_li_hierarchical_dismissal"
 brc_li_post_gospel_litanies_chrys = "brc_li_post_gospel_litanies_chrys"
 erc_li_post_gospel_litanies_chrys = "erc_li_post_gospel_litanies_chrys"
 
-brc_li_post_gospel_litanies_chrys_on = "brc_li_post_gospel_litanies_chrys_on"
-erc_li_post_gospel_litanies_chrys_on = "erc_li_post_gospel_litanies_chrys_on"
+//brc_li_post_gospel_litanies_chrys_on = "brc_li_post_gospel_litanies_chrys_on"
+//erc_li_post_gospel_litanies_chrys_on = "erc_li_post_gospel_litanies_chrys_on"
 
-brc_li_post_gospel_litanies_chrys_off = "brc_li_post_gospel_litanies_chrys_off"
-erc_li_post_gospel_litanies_chrys_off = "erc_li_post_gospel_litanies_chrys_off"
+//brc_li_post_gospel_litanies_chrys_off = "brc_li_post_gospel_litanies_chrys_off"
+//erc_li_post_gospel_litanies_chrys_off = "erc_li_post_gospel_litanies_chrys_off"
 
 brc_li_post_gospel_litanies_basil = "brc_li_post_gospel_litanies_basil"
 erc_li_post_gospel_litanies_basil = "erc_li_post_gospel_litanies_basil"
 
-brc_li_post_gospel_litanies_basil_on = "brc_li_post_gospel_litanies_basil_on"
-erc_li_post_gospel_litanies_basil_on = "erc_li_post_gospel_litanies_basil_on"
+//brc_li_post_gospel_litanies_basil_on = "brc_li_post_gospel_litanies_basil_on"
+//erc_li_post_gospel_litanies_basil_on = "erc_li_post_gospel_litanies_basil_on"
 
-brc_li_post_gospel_litanies_basil_off = "brc_li_post_gospel_litanies_basil_off"
-erc_li_post_gospel_litanies_basil_off = "erc_li_post_gospel_litanies_basil_off"
+//brc_li_post_gospel_litanies_basil_off = "brc_li_post_gospel_litanies_basil_off"
+//erc_li_post_gospel_litanies_basil_off = "erc_li_post_gospel_litanies_basil_off"
 
 brc_li_extended_comp_litany = "brc_li_extended_comp_litany"
 erc_li_extended_comp_litany = "erc_li_extended_comp_litany"
 
-brc_li_extended_comp_litany_on = "brc_li_extended_comp_litany_on"
-erc_li_extended_comp_litany_on = "erc_li_extended_comp_litany_on"
+//brc_li_extended_comp_litany_on = "brc_li_extended_comp_litany_on"
+//erc_li_extended_comp_litany_on = "erc_li_extended_comp_litany_on"
 
-brc_li_extended_comp_litany_off = "brc_li_extended_comp_litany_off"
-erc_li_extended_comp_litany_off = "erc_li_extended_comp_litany_off"
+//brc_li_extended_comp_litany_off = "brc_li_extended_comp_litany_off"
+//erc_li_extended_comp_litany_off = "erc_li_extended_comp_litany_off"
 
 brc_li_precommunion_prayers = "brc_li_precommunion_prayers"
 erc_li_precommunion_prayers = "erc_li_precommunion_prayers"
 
-brc_li_precommunion_prayers_on = "brc_li_precommunion_prayers_on"
-erc_li_precommunion_prayers_on = "erc_li_precommunion_prayers_on"
+//brc_li_precommunion_prayers_on = "brc_li_precommunion_prayers_on"
+//erc_li_precommunion_prayers_on = "erc_li_precommunion_prayers_on"
 
-brc_li_precommunion_prayers_off = "brc_li_precommunion_prayers_off"
-erc_li_precommunion_prayers_off = "erc_li_precommunion_prayers_off"
+//brc_li_precommunion_prayers_off = "brc_li_precommunion_prayers_off"
+//erc_li_precommunion_prayers_off = "erc_li_precommunion_prayers_off"
 
 brc_li_memorial_service = "brc_li_memorial_service"
 erc_li_memorial_service = "erc_li_memorial_service"
 
-brc_li_memorial_service_on = "brc_li_memorial_service_on"
-erc_li_memorial_service_on = "erc_li_memorial_service_on"
+//brc_li_memorial_service_on = "brc_li_memorial_service_on"
+//erc_li_memorial_service_on = "erc_li_memorial_service_on"
 
-brc_li_memorial_service_off = "brc_li_memorial_service_off"
-erc_li_memorial_service_off = "erc_li_memorial_service_off"
+//brc_li_memorial_service_off = "brc_li_memorial_service_off"
+//erc_li_memorial_service_off = "erc_li_memorial_service_off"
 
 
 brc_li_ordination_deacon = "brc_li_ordination_deacon"
