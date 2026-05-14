@@ -427,20 +427,20 @@ emc_ode9_pe_canon2 = "emc_ode9_pe_canon2"
 
 //service builder content to be built
 
-brc_ma_matins = "brc_ma_matins"
-erc_ma_matins = "erc_ma_matins"
+//brc_ma_matins = "brc_ma_matins"
+//erc_ma_matins = "erc_ma_matins"
 
-brc_ma_ordination_subdeacon = "brc_hma_ordination_subdeacon"
-erc_ma_ordination_subdeacon = "erc_hma_ordination_subdeacon"
+brc_ma_ordination_subdeacon = "brc_ma_ordination_subdeacon"
+erc_ma_ordination_subdeacon = "erc_ma_ordination_subdeacon"
 
-brc_ma_opt_kairo = "brc_hma_opt_kairo"
-erc_ma_opt_kairo = "erc_hma_opt_kairo"
+brc_ma_hierarchical_kairos = "brc_ma_hierarchical_kairos"
+erc_ma_hierarchical_kairos = "erc_ma_hierarchical_kairos"
 
-brc_ma_opt_lauds_stichologia = "brc_ma_lauds_opt_stichologia"
-erc_ma_opt_lauds_stichologia = "erc_ma_lauds_opt_stichologia"
+brc_ma_lauds_stichologia = "brc_ma_lauds_stichologia"
+erc_ma_lauds_stichologia = "erc_ma_lauds_stichologia"
 
-brc_ma_opt_dismissal = "brc_ma_opt_dismissal"
-erc_ma_opt_dismissal = "erc_ma_opt_dismissal"
+brc_ma_dismissal = "brc_ma_dismissal"
+erc_ma_dismissal = "erc_ma_dismissal"
 
 
 //service builder content

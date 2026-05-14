@@ -64,13 +64,17 @@ troparionminusfirstletter = "emphasis,troparionminusfirstletter"
 pbc = "emphasis,pbc"
 
 //new for sb
+ablch = "emphasis,ablch" // blank i.e. same as before, or choir
+ablhi = "emphasis,ablhi" //blank i.e. same as before, or hierarch
 achclhi = "emphasis,achclhi" //choir or clergy or hierarch
+achhi = "emphasis,achhi" //choir or hierarch
 aclhi = "emphasis,aclhi" //clergy or hierarch
 adebl = "emphasis,adebl" //deacon or blank
 adepe = "emphasis,adepe" //deacon or people
 adepr = "emphasis,adepr"
 aprcl = "emphasis,aprcl" //priest or clergy
 aprhi = "emphasis,aprhi"
+arehi = "emphasis,arehi"
 dclhi = "emphasis,dclhi" //clergy or hierarch
 ddepe = "emphasis,ddepe" //deaon or people
 ddepr = "emphasis,ddepr"
@@ -81,3 +85,5 @@ dprhi = "emphasis,dprhi"
 dwadebl = "emphasis,dwadebl"
 dwadepr = "emphasis,dwadepr"
 dwaprhi = "emphasis,dwaprhi"
+
+rblhi = "emphasis,rblhi"
