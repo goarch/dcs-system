@@ -474,8 +474,8 @@ erc_li_apolytikion2 = "erc_li_apolytikion2"
 //brc_li_apolytikion2_no = "brc_li_apolytikion2_no"
 //erc_li_apolytikion2_no = "erc_li_apolytikion2_no"
 
-brc_li_local_apolytikion = "brc_li_local_apolytikion"
-erc_li_local_apolytikion = "erc_li_local_apolytikion"
+//brc_li_local_apolytikion = "brc_li_local_apolytikion"
+//erc_li_local_apolytikion = "erc_li_local_apolytikion"
 
 brc_li_kontakion = "brc_li_kontakion"
 erc_li_kontakion = "erc_li_kontakion"
