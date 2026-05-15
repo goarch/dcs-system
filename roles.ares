@@ -447,20 +447,23 @@ erc_ma_dismissal = "erc_ma_dismissal"
 brc_delete = "brc_delete"
 erc_delete = "erc_delete"
 
+brc_li_enarxis = "brc_li_enarxis"
+erc_li_enarxis = "erc_li_enarxis"
+
 brc_li_enarxis_no_deacon = "brc_li_enarxis_no_deacon"
 erc_li_enarxis_no_deacon = "erc_li_enarxis_no_deacon"
 
 brc_li_enarxis_deacon = "brc_li_enarxis_deacon"
 erc_li_enarxis_deacon = "erc_li_enarxis_deacon"
 
-brc_li_small_entrance = "brc_li_small_entrance"
-erc_li_small_entrance = "erc_li_small_entrance"
+//brc_li_small_entrance = "brc_li_small_entrance"
+//erc_li_small_entrance = "erc_li_small_entrance"
 
 //brc_li_smallentrance_choir = "brc_li_smallentrance_choir"
 //erc_li_smallentrance_choir = "erc_li_smallentrance_choir"
 
-brc_li_small_entrance_clhi = "brc_li_small_entrance_clhi"
-erc_li_small_entrance_clhi = "erc_li_small_entrance_clhi"
+//brc_li_small_entrance_clhi = "brc_li_small_entrance_clhi"
+//erc_li_small_entrance_clhi = "erc_li_small_entrance_clhi"
 
 brc_li_apolytikion2 = "brc_li_apolytikion2"
 erc_li_apolytikion2 = "erc_li_apolytikion2"

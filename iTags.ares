@@ -62,6 +62,7 @@ troparionminusfirstletter = "emphasis,troparionminusfirstletter"
 
 //prayers before communion
 pbc = "emphasis,pbc"
+sbonly = "emphasis,sbonly"
 
 //new for sb
 ablch = "emphasis,ablch" // blank i.e. same as before, or choir
