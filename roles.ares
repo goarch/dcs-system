@@ -439,8 +439,23 @@ erc_ma_hierarchical_kairos = "erc_ma_hierarchical_kairos"
 brc_ma_lauds_stichologia = "brc_ma_lauds_stichologia"
 erc_ma_lauds_stichologia = "erc_ma_lauds_stichologia"
 
+brc_ma_lauds_stichologia_for_4 = "brc_ma_lauds_stichologia_for_4"
+erc_ma_lauds_stichologia_for_4 = "erc_ma_lauds_stichologia_for_4"
+
+brc_ma_lauds_stichologia_for_6 = "brc_ma_lauds_stichologia_for_6"
+erc_ma_lauds_stichologia_for_6 = "erc_ma_lauds_stichologia_for_6"
+
+brc_ma_end_litanies = "brc_ma_end_litanies"
+erc_ma_end_litanies = "erc_ma_end_litanies"
+
 brc_ma_dismissal = "brc_ma_dismissal"
 erc_ma_dismissal = "erc_ma_dismissal"
+
+brc_ma_dismissal_end = "brc_ma_dismissal_end"
+erc_ma_dismissal_end = "erc_ma_dismissal_end"
+
+brc_ma_hierarchical_dismissal_end = "brc_ma_hierarchical_dismissal_end"
+erc_ma_hierarchical_dismissal_end = "erc_ma_hierarchical_dismissal_end"
 
 
 //service builder content
@@ -647,8 +662,6 @@ erc_li_consecration_gospel = "erc_li_consecration_gospel"
 
 brc_li_consecration_communionhymn = "brc_li_consecration_communionhymn"
 erc_li_consecration_communionhymn = "erc_li_consecration_communionhymn"
-
-
 
 
 // do we need?

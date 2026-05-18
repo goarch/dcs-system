@@ -60,9 +60,13 @@ troparionfirstletter = "emphasis,troparionfirstletter"
 troparionlinefirstletter = "emphasis,troparionlinefirstletter"
 troparionminusfirstletter = "emphasis,troparionminusfirstletter"
 
+pdfno = "emphasis,pdfno"
 //prayers before communion
 pbc = "emphasis,pbc"
-sbonly = "emphasis,sbonly"
+
+//sbonly = "emphasis,sbonly"
+sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
+sbmadismissal = "emphasis,sbmadismissal"
 
 //new for sb
 ablch = "emphasis,ablch" // blank i.e. same as before, or choir
@@ -83,6 +87,7 @@ ddebl = "emphasis,ddebl" //deacon or blank
 dprbl = "emphasis,dprbl" //priest or blank
 dprcl = "emphasis,dprcl" //priest or clergy
 dprhi = "emphasis,dprhi"
+drehi = "emphasis,drehi" //reader or hierarch
 dwadebl = "emphasis,dwadebl"
 dwadepr = "emphasis,dwadepr"
 dwaprhi = "emphasis,dwaprhi"
