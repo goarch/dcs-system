@@ -60,7 +60,7 @@ troparionfirstletter = "emphasis,troparionfirstletter"
 troparionlinefirstletter = "emphasis,troparionlinefirstletter"
 troparionminusfirstletter = "emphasis,troparionminusfirstletter"
 
-pdfno = "emphasis,pdfno"
+//pdfno = "emphasis,pdfno"
 //prayers before communion
 pbc = "emphasis,pbc"
 
