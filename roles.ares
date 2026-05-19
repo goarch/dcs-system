@@ -429,6 +429,24 @@ emc_ode9_pe_canon2 = "emc_ode9_pe_canon2"
 brc_delete = "brc_delete"
 erc_delete = "erc_delete"
 
+brc_ma_matins_ordinary_section1_paschal = "brc_ma_matins_ordinary_section1_paschal"
+erc_ma_matins_ordinary_section1_paschal = "erc_ma_matins_ordinary_section1_paschal"
+
+brc_ma_matins_ordinary_section1_ascension = "brc_ma_matins_ordinary_section1_ascension"
+erc_ma_matins_ordinary_section1_ascension = "erc_ma_matins_ordinary_section1_ascension"
+
+brc_ma_matins_ordinary_section1_normal = "brc_ma_matins_ordinary_section1_normal"
+erc_ma_matins_ordinary_section1_normal = "erc_ma_matins_ordinary_section1_normal"
+
+brc_ma_matins_ordinary_section2_prayers = "brc_ma_matins_ordinary_section2_prayers"
+erc_ma_matins_ordinary_section2_prayers = "erc_ma_matins_ordinary_section2_prayers"
+
+brc_ma_matins_ordinary_section3_psalms_litany = "brc_ma_matins_ordinary_section3_psalms_litany"
+erc_ma_matins_ordinary_section3_psalms_litany = "erc_ma_matins_ordinary_section3_psalms_litany"
+
+brc_ma_matins_ordinary = "brc_ma_matins_ordinary"
+erc_ma_matins_ordinary = "erc_ma_matins_ordinary"
+
 brc_ma_ordination_subdeacon = "brc_ma_ordination_subdeacon"
 erc_ma_ordination_subdeacon = "erc_ma_ordination_subdeacon"
 
@@ -615,14 +633,6 @@ ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
 bcc_cli_opt_additional_bishop = "bcc_cli_opt_additional_bishop"
 ecc_cli_opt_additional_bishop = "ecc_cli_opt_additional_bishop"
 
-brc_matinsordinary_paschal = "brc_matinsordinary_paschal"
-erc_matinsordinary_paschal = "erc_matinsordinary_paschal"
-
-brc_matinsordinary_ascension = "brc_matinsordinary_ascension"
-erc_matinsordinary_ascension = "erc_matinsordinary_ascension"
-
-brc_matinsordinary_normal = "brc_matinsordinary_normal"
-erc_matinsordinary_normal = "erc_matinsordinary_normal"
 
 
 

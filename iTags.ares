@@ -51,6 +51,7 @@ actorwithdialog = "emphasis,actorwithdialog"
 optional = "emphasis,optional"
 reference = "emphasis,reference"
 rubric = "emphasis,rubric"
+rubricnopdf = "emphasis,rubricnopdf"
 smaller = "emphasis,smaller"
 smallred = "emphasis,smallred"
 smallreditalic = "emphasis,smallreditalic"
@@ -60,9 +61,9 @@ troparionfirstletter = "emphasis,troparionfirstletter"
 troparionlinefirstletter = "emphasis,troparionlinefirstletter"
 troparionminusfirstletter = "emphasis,troparionminusfirstletter"
 
-//pdfno = "emphasis,pdfno"
 //prayers before communion
 pbc = "emphasis,pbc"
+pdfno = "emphasis,pdfno"
 
 //sbonly = "emphasis,sbonly"
 sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
