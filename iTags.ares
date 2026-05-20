@@ -89,9 +89,6 @@ dprbl = "emphasis,dprbl" //priest or blank
 dprcl = "emphasis,dprcl" //priest or clergy
 dprhi = "emphasis,dprhi"
 drehi = "emphasis,drehi" //reader or hierarch
-dwadebl = "emphasis,dwadebl"
-dwadepr = "emphasis,dwadepr"
-dwaprhi = "emphasis,dwaprhi"
 
 rblhi = "emphasis,rblhi"
 rdebl = "emphasis,rdebl"
