@@ -607,6 +607,9 @@ erc_li_ordination_priest_part2 = "erc_li_ordination_priest_part2"
 brc_li_ordination_priest_part3 = "brc_li_ordination_priest_part3"
 erc_li_ordination_priest_part3 = "erc_li_ordination_priest_part3"
 
+brc_li_consecration_title = "brc_li_consecration_title"
+erc_li_consecration_title = "erc_li_consecration_title"
+
 brc_li_consecration_enarxis = "brc_li_consecration_enarxis"
 erc_li_consecration_enarxis = "erc_li_consecration_enarxis"
 
