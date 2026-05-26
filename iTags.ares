@@ -69,10 +69,15 @@ pdfno = "emphasis,pdfno"
 sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
 sbmadismissal = "emphasis,sbmadismissal"
 
+sbhmakatavasias = "emphasis,sbhmakatavasias"
+sbhmaexaposteilaria = "emphasis,sbhmaexaposteilaria"
+sbhmalaudsmode = "emphasis,sbhmalaudsmode"
+
 //new for sb
 ablch = "emphasis,ablch" // blank i.e. same as before, or choir
 ablhi = "emphasis,ablhi" //blank i.e. same as before, or hierarch
 achclhi = "emphasis,achclhi" //choir or clergy or hierarch
+achbl = "emphasis,achbl" //choir or bland for hierarch
 achhi = "emphasis,achhi" //choir or hierarch
 aclhi = "emphasis,aclhi" //clergy or hierarch
 adebl = "emphasis,adebl" //deacon or blank
