@@ -564,20 +564,20 @@ erc_li_kissofpeace = "erc_li_kissofpeace"
 brc_li_kissofpeace_clhi = "brc_li_kissofpeace_clhi"
 erc_li_kissofpeace_clhi = "erc_li_kissofpeace_clhi"
 
-brc_li_commemoration_hierarch = "brc_li_commemoration_hierarch"
-erc_li_commemoration_hierarch = "erc_li_commemoration_hierarch"
+brc_li_diptychs = "brc_li_diptychs"
+erc_li_diptychs = "erc_li_diptychs"
 
-brc_li_archbishop_or_metropolitan = "brc_li_archbishop_or_metropolitan"
-erc_li_archbishop_or_metropolitan = "erc_li_archbishop_or_metropolitan"
+brc_li_diptychs_archbishop_or_metropolitan = "brc_li_diptychs_archbishop_or_metropolitan"
+erc_li_diptychs_archbishop_or_metropolitan = "erc_li_diptychs_archbishop_or_metropolitan"
 
-brc_li_bishop = "brc_li_bishop"
-erc_li_bishop = "erc_li_bishop"
+brc_li_diptychs_bishop = "brc_li_diptychs_bishop"
+erc_li_diptychs_bishop = "erc_li_diptychs_bishop"
 
-brc_li_additional_metropolitan = "brc_li_additional_metropolitan"
-erc_li_additional_metropolitan = "erc_li_additional_metropolitan"
+brc_li_diptychs_additional_metropolitan = "brc_li_diptychs_additional_metropolitan"
+erc_li_diptychs_additional_metropolitan = "erc_li_diptychs_additional_metropolitan"
 
-brc_li_additional_bishop = "brc_li_additional_bishop"
-erc_li_additional_bishop = "erc_li_additional_bishop"
+brc_li_diptychs_additional_bishop = "brc_li_diptychs_additional_bishop"
+erc_li_diptychs_additional_bishop = "erc_li_diptychs_additional_bishop"
 
 brc_li_communionhymn = "brc_li_communionhymn"
 erc_li_communionhymn = "erc_li_communionhymn"
@@ -587,7 +587,6 @@ erc_li_dismissal = "erc_li_dismissal"
 
 brc_li_hierarchical_dismissal = "brc_li_hierarchical_dismissal"
 erc_li_hierarchical_dismissal = "erc_li_hierarchical_dismissal"
-
 
 brc_li_post_gospel_litanies_chrys = "brc_li_post_gospel_litanies_chrys"
 erc_li_post_gospel_litanies_chrys = "erc_li_post_gospel_litanies_chrys"
@@ -636,6 +635,18 @@ erc_li_consecration_gospel = "erc_li_consecration_gospel"
 
 brc_li_consecration_communionhymn = "brc_li_consecration_communionhymn"
 erc_li_consecration_communionhymn = "erc_li_consecration_communionhymn"
+
+brc_hi_commemoration_great_litany = "brc_hi_commemoration_great_litany"
+erc_hi_commemoration_great_litany = "erc_hi_commemoration_great_litany"
+
+brc_hi_commemoration_great_litany_and_bishop = "brc_hi_commemoration_great_litany_and_bishop"
+erc_hi_commemoration_great_litany_and_bishop = "erc_hi_commemoration_great_litany_and_bishop"
+
+brc_hi_commemoration_supplication = "brc_hi_commemoration_supplication"
+erc_hi_commemoration_supplication = "erc_hi_commemoration_supplication"
+
+brc_hi_commemoration_supplication_and_bishop = "brc_hi_commemoration_supplication_and_bishop"
+erc_hi_commemoration_supplication_and_bishop = "erc_hi_commemoration_supplication_and_bishop"
 
 
 // do we need?
