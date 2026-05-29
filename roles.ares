@@ -525,6 +525,15 @@ erc_li_hierarchical_trisagion_holygod = "erc_li_hierarchical_trisagion_holygod"
 brc_li_fimi = "brc_li_fimi"
 erc_li_fimi = "erc_li_fimi"
 
+brc_li_fimi_bishop000_bishop1 = "brc_li_fimi_bishop000_bishop1" //when Archbishop serves
+erc_li_fimi_bishop000_bishop1 = "erc_li_fimi_bishop000_bishop1"
+
+brc_li_fimi_bishop0_bishop111 = "brc_li_fimi_bishop0_bishop111" //when Mets serve
+erc_li_fimi_bishop0_bishop111 = "erc_li_fimi_bishop0_bishop111"
+
+brc_li_fimi_bishop111 = "brc_li_fimi_bishop111" //bishop serves
+erc_li_fimi_bishop111 = "erc_li_fimi_bishop111"
+
 brc_li_fimi_bishop0_bishop1 = "brc_li_fimi_bishop0_bishop1"
 erc_li_fimi_bishop0_bishop1 = "erc_li_fimi_bishop0_bishop1"
 
