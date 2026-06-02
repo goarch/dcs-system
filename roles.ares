@@ -120,7 +120,6 @@ bkmrk20 = "bkmrk20"
 //roles with Para for links
 prayersbeforecommunionlink = "prayersbeforecommunionlink"
 
-
 //roles with Para for marked content
 bmc_collapse = "bmc_collapse"
 emc_collapse = "emc_collapse"
@@ -648,15 +647,12 @@ erc_hi_commemoration_supplication = "erc_hi_commemoration_supplication"
 brc_hi_commemoration_supplication_and_bishop = "brc_hi_commemoration_supplication_and_bishop"
 erc_hi_commemoration_supplication_and_bishop = "erc_hi_commemoration_supplication_and_bishop"
 
-
 // do we need?
 bcc_cli_opt_additional_metropolitan = "bcc_cli_opt_additional_metropolitan"
 ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
 
 bcc_cli_opt_additional_bishop = "bcc_cli_opt_additional_bishop"
 ecc_cli_opt_additional_bishop = "ecc_cli_opt_additional_bishop"
-
-
 
 
 

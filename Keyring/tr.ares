@@ -25,9 +25,9 @@ trTY.note3 = "" //footnotes from Hemerologion
 trTY.note4 = "" //footnotes from Hemerologion
 trTY.note5 = "" //footnotes from Hemerologion
 
-trR001 = ""
-trR002 = ""
-trR003 = ""
+trR001.rubric = ""
+trR002.rubric = ""
+trR003.rubric= ""
 
 trVE.Stichera01.desc = ""
 trVE.Stichera01.mode = ""
