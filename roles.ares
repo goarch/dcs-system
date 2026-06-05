@@ -482,6 +482,12 @@ erc_li_enarxis_no_deacon = "erc_li_enarxis_no_deacon"
 brc_li_enarxis_deacon = "brc_li_enarxis_deacon"
 erc_li_enarxis_deacon = "erc_li_enarxis_deacon"
 
+brc_li_small_entrance = "brc_li_small_entrance"
+erc_li_small_entrance = "erc_li_small_entrance"
+
+brc_li_hierarchical_small_entrance = "brc_li_hierarchical_small_entrance"
+erc_li_hierarchical_small_entrance = "erc_li_hierarchical_small_entrance"
+
 brc_li_apolytikion2 = "brc_li_apolytikion2"
 erc_li_apolytikion2 = "erc_li_apolytikion2"
 
