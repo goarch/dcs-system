@@ -428,6 +428,30 @@ emc_ode9_pe_canon2 = "emc_ode9_pe_canon2"
 brc_delete = "brc_delete"
 erc_delete = "erc_delete"
 
+brc_ve_vesperal_prayers = "brc_ve_vesperal_prayers"
+erc_ve_vesperal_prayers = "erc_ve_vesperal_prayers"
+
+brc_ve_stichologia = "brc_ve_stichologia"
+erc_ve_stichologia = "erc_ve_stichologia"
+
+brc_ve_stichologia_for_10 = "brc_ve_stichologia_for_10"
+erc_ve_stichologia_for_10 = "erc_ve_stichologia_for_10"
+
+brc_ve_stichologia_for_8 = "brc_ve_stichologia_for_8"
+erc_ve_stichologia_for_8 = "erc_ve_stichologia_for_8"
+
+brc_ve_stichologia_for_6 = "brc_ve_stichologia_for_6"
+erc_ve_stichologia_for_6 = "erc_ve_stichologia_for_6"
+
+brc_ve_entrance = "brc_ve_entrance"
+erc_ve_entrance = "erc_ve_entrance"
+
+brc_ve_concelebration_entrance = "brc_ve_concelebration_entrance"
+erc_ve_concelebration_entrance = "erc_ve_concelebration_entrance"
+
+brc_ve_hierarchical_entrance = "brc_ve_hierarchical_entrance"
+erc_ve_hierarchical_entrance = "erc_ve_hierarchical_entrance"
+
 brc_ma_matins_ordinary_section1_paschal = "brc_ma_matins_ordinary_section1_paschal"
 erc_ma_matins_ordinary_section1_paschal = "erc_ma_matins_ordinary_section1_paschal"
 
@@ -653,12 +677,6 @@ erc_hi_commemoration_supplication = "erc_hi_commemoration_supplication"
 brc_hi_commemoration_supplication_and_bishop = "brc_hi_commemoration_supplication_and_bishop"
 erc_hi_commemoration_supplication_and_bishop = "erc_hi_commemoration_supplication_and_bishop"
 
-// do we need?
-bcc_cli_opt_additional_metropolitan = "bcc_cli_opt_additional_metropolitan"
-ecc_cli_opt_additional_metropolitan = "ecc_cli_opt_additional_metropolitan"
-
-bcc_cli_opt_additional_bishop = "bcc_cli_opt_additional_bishop"
-ecc_cli_opt_additional_bishop = "ecc_cli_opt_additional_bishop"
 
 
 

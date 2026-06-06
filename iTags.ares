@@ -67,13 +67,17 @@ pdfno = "emphasis,pdfno"
 
 //sbonly = "emphasis,sbonly"
 sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
-sbmadismissal = "emphasis,sbmadismissal"
 
 sbhmakatavasias = "emphasis,sbhmakatavasias"
 sbhmaexaposteilaria = "emphasis,sbhmaexaposteilaria"
 sbhmalaudsmode = "emphasis,sbhmalaudsmode"
+sbmadismissal = "emphasis,sbmadismissal"
+
+sbhvemode = "emphasis,sbhvemode"
+sbhvetrisagion = "emphasis,sbhvetrisagion"
 
 //new for sb
+//a=actor, d=dialog, r=rubric
 ablch = "emphasis,ablch" // blank i.e. same as before, or choir
 ablhi = "emphasis,ablhi" //blank i.e. same as before, or hierarch
 achclhi = "emphasis,achclhi" //choir or clergy or hierarch
