@@ -446,6 +446,15 @@ erc_ve_stichologia_for_6 = "erc_ve_stichologia_for_6"
 brc_ve_entrance = "brc_ve_entrance"
 erc_ve_entrance = "erc_ve_entrance"
 
+brc_ve_prokeimenon = "brc_ve_prokeimenon"
+erc_ve_prokeimenon = "erc_ve_prokeimenon"
+
+brc_ve_concelebration_prokeimenon = "brc_ve_concelebration_prokeimenon"
+erc_ve_concelebration_prokeimenon = "erc_ve_concelebration_prokeimenon"
+
+brc_ve_hierarchical_prokeimenon = "brc_ve_hierarchical_prokeimenon"
+erc_ve_hierarchical_prokeimenon = "erc_ve_hierarchical_prokeimenon"
+
 brc_ve_concelebration_entrance = "brc_ve_concelebration_entrance"
 erc_ve_concelebration_entrance = "erc_ve_concelebration_entrance"
 
@@ -509,8 +518,23 @@ erc_li_enarxis_deacon = "erc_li_enarxis_deacon"
 brc_li_small_entrance = "brc_li_small_entrance"
 erc_li_small_entrance = "erc_li_small_entrance"
 
+brc_li_concelebration_small_entrance = "brc_li_concelebration_small_entrance"
+erc_li_concelebration_small_entrance = "erc_li_concelebration_small_entrance"
+
 brc_li_hierarchical_small_entrance = "brc_li_hierarchical_small_entrance"
 erc_li_hierarchical_small_entrance = "erc_li_hierarchical_small_entrance"
+
+brc_li_apolytikion1 = "brc_li_apolytikion1"
+erc_li_apolytikion1 = "erc_li_apolytikion1"
+
+brc_li_apolytikion1_choir = "brc_li_apolytikion1_choir"
+erc_li_apolytikion1_choir = "erc_li_apolytikion1_choir"
+
+brc_li_apolytikion1_concelebration = "brc_li_apolytikion1_concelebration"
+erc_li_apolytikion1_concelebration = "erc_li_apolytikion1_concelebration"
+
+brc_li_apolytikion1_hierarchical = "brc_li_apolytikion1_hierarchical"
+erc_li_apolytikion1_hierarchical = "erc_li_apolytikion1_hierarchical"
 
 brc_li_apolytikion2 = "brc_li_apolytikion2"
 erc_li_apolytikion2 = "erc_li_apolytikion2"
