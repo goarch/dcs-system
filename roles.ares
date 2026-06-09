@@ -446,6 +446,12 @@ erc_ve_stichologia_for_6 = "erc_ve_stichologia_for_6"
 brc_ve_entrance = "brc_ve_entrance"
 erc_ve_entrance = "erc_ve_entrance"
 
+brc_ve_concelebration_entrance = "brc_ve_concelebration_entrance"
+erc_ve_concelebration_entrance = "erc_ve_concelebration_entrance"
+
+brc_ve_hierarchical_entrance = "brc_ve_hierarchical_entrance"
+erc_ve_hierarchical_entrance = "erc_ve_hierarchical_entrance"
+
 brc_ve_prokeimenon = "brc_ve_prokeimenon"
 erc_ve_prokeimenon = "erc_ve_prokeimenon"
 
@@ -455,11 +461,23 @@ erc_ve_concelebration_prokeimenon = "erc_ve_concelebration_prokeimenon"
 brc_ve_hierarchical_prokeimenon = "brc_ve_hierarchical_prokeimenon"
 erc_ve_hierarchical_prokeimenon = "erc_ve_hierarchical_prokeimenon"
 
-brc_ve_concelebration_entrance = "brc_ve_concelebration_entrance"
-erc_ve_concelebration_entrance = "erc_ve_concelebration_entrance"
+brc_ve_lity_part1_title_actor = "brc_ve_lity_part1_title_actor"
+erc_ve_lity_part1_title_actor = "erc_ve_lity_part1_title_actor"
 
-brc_ve_hierarchical_entrance = "brc_ve_hierarchical_entrance"
-erc_ve_hierarchical_entrance = "erc_ve_hierarchical_entrance"
+brc_ve_lity_part2_first = "brc_ve_lity_part2_first"
+erc_ve_lity_part2_first = "erc_ve_lity_part2_first"
+
+brc_ve_lity_part2_all = "brc_ve_lity_part2_all"
+erc_ve_lity_part2_all = "erc_ve_lity_part2_all"
+
+brc_ve_lity_part3_litany = "brc_ve_lity_part3_litany"
+erc_ve_lity_part3_litany = "erc_ve_lity_part3_litany"
+
+brc_ve_lity_part4_theotokoshymn = "brc_ve_lity_part4_theotokoshymn"
+erc_ve_lity_part4_theotokoshymn = "erc_ve_lity_part4_theotokoshymn"
+
+brc_ve_lity_part5_blessingofloaves = "brc_ve_lity_part5_blessingofloaves"
+erc_ve_lity_part5_blessingofloaves = "erc_ve_lity_part5_blessingofloaves"
 
 brc_ma_matins_ordinary_section1_paschal = "brc_ma_matins_ordinary_section1_paschal"
 erc_ma_matins_ordinary_section1_paschal = "erc_ma_matins_ordinary_section1_paschal"
