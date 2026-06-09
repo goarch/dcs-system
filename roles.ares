@@ -674,6 +674,9 @@ erc_li_precommunion_prayers = "erc_li_precommunion_prayers"
 brc_li_memorial_service = "brc_li_memorial_service"
 erc_li_memorial_service = "erc_li_memorial_service"
 
+brc_li_blessing_of_loaves = "brc_li_blessing_of_loaves"
+erc_li_blessing_of_loaves = "erc_li_blessing_of_loaves"
+
 brc_li_ordination_deacon = "brc_li_ordination_deacon"
 erc_li_ordination_deacon = "erc_li_ordination_deacon"
 
