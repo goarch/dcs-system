@@ -431,6 +431,12 @@ erc_delete = "erc_delete"
 brc_ve_vesperal_prayers = "brc_ve_vesperal_prayers"
 erc_ve_vesperal_prayers = "erc_ve_vesperal_prayers"
 
+brc_ve_vespers_introductory_psalm = "brc_ve_vespers_introductory_psalm"
+erc_ve_vespers_introductory_psalm = "erc_ve_vespers_introductory_psalm"
+
+brc_ve_vespers_anoixantaria = "brc_ve_vespers_anoixantaria"
+erc_ve_vespers_anoixantaria = "erc_ve_vespers_anoixantaria"
+
 brc_ve_stichologia = "brc_ve_stichologia"
 erc_ve_stichologia = "erc_ve_stichologia"
 
@@ -479,7 +485,6 @@ erc_ve_lity_part5 = "erc_ve_lity_part5"
 brc_ve_lity_part6 = "brc_ve_lity_part6"
 erc_ve_lity_part6 = "erc_ve_lity_part6"
 
-
 brc_ve_lity_part1_title_actor = "brc_ve_lity_part1_title_actor"
 erc_ve_lity_part1_title_actor = "erc_ve_lity_part1_title_actor"
 
@@ -497,6 +502,12 @@ erc_ve_lity_part5_theotokoshymn = "erc_ve_lity_part5_theotokoshymn"
 
 brc_ve_lity_part6_blessingofloaves = "brc_ve_lity_part6_blessingofloaves"
 erc_ve_lity_part6_blessingofloaves = "erc_ve_lity_part6_blessingofloaves"
+
+brc_ve_end = "brc_ve_end"
+erc_ve_end = "erc_ve_end"
+
+brc_ve_end_when_loaves = "brc_ve_end_when_loaves"
+erc_ve_end_when_loaves = "erc_ve_end_when_loaves"
 
 brc_ma_matins_ordinary_section1_paschal = "brc_ma_matins_ordinary_section1_paschal"
 erc_ma_matins_ordinary_section1_paschal = "erc_ma_matins_ordinary_section1_paschal"

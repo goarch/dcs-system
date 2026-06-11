@@ -80,7 +80,7 @@ sbhvetrisagion = "emphasis,sbhvetrisagion"
 //a=actor, d=dialog, r=rubric
 ablch = "emphasis,ablch" // blank i.e. same as before, or choir
 ablhi = "emphasis,ablhi" //blank i.e. same as before, or hierarch
-achclhi = "emphasis,achclhi" //choir or clergy or hierarch
+achcl = "emphasis,achcl" //choir or clergy
 achbl = "emphasis,achbl" //choir or bland for hierarch
 achhi = "emphasis,achhi" //choir or hierarch
 aclhi = "emphasis,aclhi" //clergy or hierarch
