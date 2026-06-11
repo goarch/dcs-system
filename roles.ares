@@ -461,23 +461,42 @@ erc_ve_concelebration_prokeimenon = "erc_ve_concelebration_prokeimenon"
 brc_ve_hierarchical_prokeimenon = "brc_ve_hierarchical_prokeimenon"
 erc_ve_hierarchical_prokeimenon = "erc_ve_hierarchical_prokeimenon"
 
+brc_ve_lity_part1 = "brc_ve_lity_part1"
+erc_ve_lity_part1 = "erc_ve_lity_part1"
+
+brc_ve_lity_part2 = "brc_ve_lity_part2"
+erc_ve_lity_part2 = "erc_ve_lity_part2"
+
+brc_ve_lity_part3 = "brc_ve_lity_part3"
+erc_ve_lity_part3 = "erc_ve_lity_part3"
+
+brc_ve_lity_part4 = "brc_ve_lity_part4"
+erc_ve_lity_part4 = "erc_ve_lity_part4"
+
+brc_ve_lity_part5 = "brc_ve_lity_part5"
+erc_ve_lity_part5 = "erc_ve_lity_part5"
+
+brc_ve_lity_part6 = "brc_ve_lity_part6"
+erc_ve_lity_part6 = "erc_ve_lity_part6"
+
+
 brc_ve_lity_part1_title_actor = "brc_ve_lity_part1_title_actor"
 erc_ve_lity_part1_title_actor = "erc_ve_lity_part1_title_actor"
 
 brc_ve_lity_part2_first = "brc_ve_lity_part2_first"
 erc_ve_lity_part2_first = "erc_ve_lity_part2_first"
 
-brc_ve_lity_part2_all = "brc_ve_lity_part2_all"
-erc_ve_lity_part2_all = "erc_ve_lity_part2_all"
+brc_ve_lity_part3_rest = "brc_ve_lity_part3_rest"
+erc_ve_lity_part3_rest = "erc_ve_lity_part3_rest"
 
-brc_ve_lity_part3_litany = "brc_ve_lity_part3_litany"
-erc_ve_lity_part3_litany = "erc_ve_lity_part3_litany"
+brc_ve_lity_part4_litany = "brc_ve_lity_part4_litany"
+erc_ve_lity_part4_litany = "erc_ve_lity_part4_litany"
 
-brc_ve_lity_part4_theotokoshymn = "brc_ve_lity_part4_theotokoshymn"
-erc_ve_lity_part4_theotokoshymn = "erc_ve_lity_part4_theotokoshymn"
+brc_ve_lity_part5_theotokoshymn = "brc_ve_lity_part5_theotokoshymn"
+erc_ve_lity_part5_theotokoshymn = "erc_ve_lity_part5_theotokoshymn"
 
-brc_ve_lity_part5_blessingofloaves = "brc_ve_lity_part5_blessingofloaves"
-erc_ve_lity_part5_blessingofloaves = "erc_ve_lity_part5_blessingofloaves"
+brc_ve_lity_part6_blessingofloaves = "brc_ve_lity_part6_blessingofloaves"
+erc_ve_lity_part6_blessingofloaves = "erc_ve_lity_part6_blessingofloaves"
 
 brc_ma_matins_ordinary_section1_paschal = "brc_ma_matins_ordinary_section1_paschal"
 erc_ma_matins_ordinary_section1_paschal = "erc_ma_matins_ordinary_section1_paschal"
