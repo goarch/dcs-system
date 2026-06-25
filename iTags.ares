@@ -67,6 +67,8 @@ pdfno = "emphasis,pdfno"
 
 //sbonly = "emphasis,sbonly"
 sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
+sbliparishapolytikionrubric = "emphasis,sbliparishapolytikionrubric"
+sbliparishfeastday = "emphasis,sbliparishfeastday"
 
 sbhmakatavasias = "emphasis,sbhmakatavasias"
 sbhmaexaposteilaria = "emphasis,sbhmaexaposteilaria"
