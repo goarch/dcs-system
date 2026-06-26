@@ -66,6 +66,8 @@ pbc = "emphasis,pbc"
 pdfno = "emphasis,pdfno"
 
 //sbonly = "emphasis,sbonly"
+sbparishname = "emphasis,sbparishname"
+
 sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
 sbliparishapolytikionrubric = "emphasis,sbliparishapolytikionrubric"
 sbliparishfeastday = "emphasis,sbliparishfeastday"
