@@ -527,14 +527,29 @@ erc_ma_matins_ordinary_section2_prayers = "erc_ma_matins_ordinary_section2_praye
 brc_ma_matins_ordinary_section3_psalms_litany = "brc_ma_matins_ordinary_section3_psalms_litany"
 erc_ma_matins_ordinary_section3_psalms_litany = "erc_ma_matins_ordinary_section3_psalms_litany"
 
-//brc_ma_matins_ordinary = "brc_ma_matins_ordinary"
-//erc_ma_matins_ordinary = "erc_ma_matins_ordinary"
-
 brc_ma_remove_matins_ordinary = "brc_ma_remove_matins_ordinary"
 erc_ma_remove_matins_ordinary = "erc_ma_remove_matins_ordinary"
 
 brc_ma_ordination_subdeacon = "brc_ma_ordination_subdeacon"
 erc_ma_ordination_subdeacon = "erc_ma_ordination_subdeacon"
+
+brc_ma_katavasias = "brc_ma_katavasias"
+erc_ma_katavasias = "erc_ma_katavasias"
+
+brc_ma_hierarchical_katavasias = "brc_ma_hierarchical_katavasias"
+erc_ma_hierarchical_katavasias = "erc_ma_hierarchical_katavasias"
+
+brc_ma_ode9 = "brc_ma_ode9"
+erc_ma_ode9 = "erc_ma_ode9"
+
+brc_ma_hierarchical_ode9 = "brc_ma_hierarchical_ode9"
+erc_ma_hierarchical_ode9 = "erc_ma_hierarchical_ode9"
+
+brc_ma_expoasteilarion = "brc_ma_expoasteilarion"
+erc_ma_expoasteilarion = "erc_ma_expoasteilarion"
+
+brc_ma_hierarchical_expoasteilarion = "brc_ma_hierarchical_expoasteilarion"
+erc_ma_hierarchical_expoasteilarion = "erc_ma_hierarchical_expoasteilarion"
 
 brc_ma_hierarchical_kairos = "brc_ma_hierarchical_kairos"
 erc_ma_hierarchical_kairos = "erc_ma_hierarchical_kairos"
