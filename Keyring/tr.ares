@@ -225,6 +225,7 @@ trVE.AposBoth.text = ""
 
 trVE.Apolytikion1.desc = ""
 trVE.Apolytikion1.mode = ""
+trVE.Apolytikion1.common = ""
 trVE.Apolytikion1.greekmelody = ""
 trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.incipit = ""
@@ -233,12 +234,14 @@ trVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 
 trVE.Apolytikion2.desc = ""
 trVE.Apolytikion2.mode = ""
+trVE.Apolytikion2.common = ""
 trVE.Apolytikion2.greekmelody = ""
 trVE.Apolytikion2.melody = ""
 trVE.Apolytikion2.text = "" //Used also for last line on Sat of Souls
 
 trVE.Apolytikion3.desc = ""
 trVE.Apolytikion3.mode = ""
+trVE.Apolytikion3.common = ""
 trVE.Apolytikion3.greekmelody = ""
 trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.text = "" //Used also for last line on Sat of Souls
