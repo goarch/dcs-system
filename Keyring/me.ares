@@ -285,6 +285,7 @@ meVE.Aposticha4.incipit = ""
 meVE.Aposticha4.text = ""
 
 meVE.AposGlory.desc = ""
+meVE.AposGlory.poet = ""
 meVE.AposGlory.mode = ""
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = ""
