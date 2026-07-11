@@ -66,7 +66,7 @@ pbc = "emphasis,pbc"
 pdfno = "emphasis,pdfno"
 
 //sbonly = "emphasis,sbonly"
-//sbparishname = "emphasis,sbparishname"
+//sbparishname = "emphasis,sbparishname" this is now a role
 
 sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
 sbliparishapolytikionrubric = "emphasis,sbliparishapolytikionrubric"
