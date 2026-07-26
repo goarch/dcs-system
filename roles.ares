@@ -611,6 +611,9 @@ erc_li_apolytikion1_hierarchical = "erc_li_apolytikion1_hierarchical"
 brc_li_apolytikion2 = "brc_li_apolytikion2"
 erc_li_apolytikion2 = "erc_li_apolytikion2"
 
+brc_li_memorial_hymn = "brc_li_memorial_hymn"
+erc_li_memorial_hymn = "erc_li_memorial_hymn"
+
 brc_li_local_apolytikion = "brc_li_local_apolytikion"
 erc_li_local_apolytikion = "erc_li_local_apolytikion"
 
