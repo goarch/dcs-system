@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = ""
 meDA.commemoration.full = "" //full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.second = ""
@@ -3944,7 +3944,7 @@ mePL.Theotokion.text = ""
 alt1.meHO.Month.text = ""
 alt1.meHO.DaysHours.text = ""
 
-alt1.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" //full title of day
 alt1.meDA.commemoration.second = "" //full title of day
 alt1.meDA.commemoration.first_short = ""
@@ -7367,7 +7367,7 @@ alt1.meLI.publication.communionhymn.text = ""
 alt2.meHO.Month.text = ""
 alt2.meHO.DaysHours.text = ""
 
-alt2.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt2.meDA.date = ""
 alt2.meDA.commemoration.full = "" //full title of day
 alt2.meDA.commemoration.second = "" //full title of day
 alt2.meDA.commemoration.first_short = ""
@@ -10713,7 +10713,7 @@ alt2.mePL.Theotokion.text = ""
 alt3.meHO.Month.text = ""
 alt3.meHO.DaysHours.text = ""
 
-alt3.meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+alt3.meDA.date = ""
 alt3.meDA.commemoration.full = "" //full title of day
 alt3.meDA.commemoration.second = "" //full title of day
 alt3.meDA.commemoration.first_short = ""
