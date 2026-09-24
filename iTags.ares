@@ -48,6 +48,7 @@ Tmode = "emphasis,mode"
 
 anum = "emphasis,anum"
 actorwithdialog = "emphasis,actorwithdialog"
+hidden = "emphasis,hidden"
 optional = "emphasis,optional"
 reference = "emphasis,reference"
 rubric = "emphasis,rubric"

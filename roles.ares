@@ -784,4 +784,37 @@ erc_hi_commemoration_supplication_and_bishop = "erc_hi_commemoration_supplicatio
 
 sbparishname = "sbparishname"
 
+sb_pdf_cover_begin = "sb_pdf_cover_begin"
+sb_pdf_cover_end = "sb_pdf_cover_end"
+sb_pdf_credits_begin = "sb_pdf_credits_begin"
+sb_pdf_credits_end = "sb_pdf_credits_end"
 
+//roles with Title for sb covers
+sb_cover0 = "sb_cover0"
+sb_cover1 = "sb_cover1"
+sb_cover2 = "sb_cover2"
+sb_cover3 = "sb_cover3"
+sb_cover31 = "sb_cover31"
+sb_cover4 = "sb_cover4"
+sb_cover5 = "sb_cover5"
+sb_cover6 = "sb_cover6"
+sb_cover7 = "sb_cover7"
+sb_cover8 = "sb_cover8"
+sb_cover81 = "sb_cover81"
+sb_cover82 = "sb_cover82"
+sb_cover12 = "sb_cover12"
+
+//roles with Para for sb credits
+sb_credits1 = "sb_credits1"
+sb_credits2 = "sb_credits2"
+sb_credits3 = "sb_credits3"
+sb_credits4 = "sb_credits4"
+sb_credits5 = "sb_credits5"
+sb_credits6 = "sb_credits6"
+
+//roles with Para for Logos
+sb_logo = "sb_logo"
+sb_cover_logo1 = "sb_cover_logo1"
+sb_cover_logo2 = "sb_cover_logo2"
+sb_cover_logo_line_above = "sb_cover_logo_line_above"
+sb_cover_logo_line_below = "sb_cover_logo_line_below"
