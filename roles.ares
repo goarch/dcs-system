@@ -536,23 +536,93 @@ erc_ma_remove_matins_ordinary = "erc_ma_remove_matins_ordinary"
 brc_ma_ordination_subdeacon = "brc_ma_ordination_subdeacon"
 erc_ma_ordination_subdeacon = "erc_ma_ordination_subdeacon"
 
-brc_ma_katavasias = "brc_ma_katavasias"
-erc_ma_katavasias = "erc_ma_katavasias"
 
-brc_ma_hierarchical_katavasias = "brc_ma_hierarchical_katavasias"
-erc_ma_hierarchical_katavasias = "erc_ma_hierarchical_katavasias"
+brc_ma_actor_choir = "brc_ma_actor_choir"
+erc_ma_actor_choir = "erc_ma_actor_choir"
 
-brc_ma_ode9 = "brc_ma_ode9"
-erc_ma_ode9 = "erc_ma_ode9"
+brc_ma_actor_choirL = "brc_ma_actor_choirL"
+erc_ma_actor_choirL = "erc_ma_actor_choirL"
 
-brc_ma_hierarchical_ode9 = "brc_ma_hierarchical_ode9"
-erc_ma_hierarchical_ode9 = "erc_ma_hierarchical_ode9"
+brc_ma_actor_hierarch_as_choirR = "brc_ma_actor_hierarch_as_choirR"
+erc_ma_actor_hierarch_as_choirR = "erc_ma_actor_hierarch_as_choirR"
 
-brc_ma_expoasteilarion = "brc_ma_expoasteilarion"
-erc_ma_expoasteilarion = "erc_ma_expoasteilarion"
+brc_ma_actor_hierarch= "brc_ma_actor_hierarch"
+erc_ma_actor_hierarch = "erc_ma_actor_hierarch"
 
-brc_ma_hierarchical_expoasteilarion = "brc_ma_hierarchical_expoasteilarion"
-erc_ma_hierarchical_expoasteilarion = "erc_ma_hierarchical_expoasteilarion"
+brc_ma_katavasias_ode1_actor = "brc_ma_katavasias_ode1_actor"
+erc_ma_katavasias_ode1_actor = "erc_ma_katavasias_ode1_actor"
+
+brc_ma_katavasias_ode2_actor = "brc_ma_katavasias_ode2_actor"
+erc_ma_katavasias_ode2_actor = "erc_ma_katavasias_ode2_actor"
+
+brc_ma_katavasias_ode3_actor = "brc_ma_katavasias_ode3_actor"
+erc_ma_katavasias_ode3_actor = "erc_ma_katavasias_ode3_actor"
+
+brc_ma_katavasias_ode4_actor = "brc_ma_katavasias_ode4_actor"
+erc_ma_katavasias_ode4_actor = "erc_ma_katavasias_ode4_actor"
+
+brc_ma_katavasias_ode5_actor = "brc_ma_katavasias_ode5_actor"
+erc_ma_katavasias_ode5_actor = "erc_ma_katavasias_ode5_actor"
+
+brc_ma_katavasias_ode6_actor = "brc_ma_katavasias_ode6_actor"
+erc_ma_katavasias_ode6_actor = "erc_ma_katavasias_ode6_actor"
+
+brc_ma_katavasias_ode7_actor = "brc_ma_katavasias_ode7_actor"
+erc_ma_katavasias_ode7_actor = "erc_ma_katavasias_ode7_actor"
+
+brc_ma_katavasias_ode8_actor = "brc_ma_katavasias_ode8_actor"
+erc_ma_katavasias_ode8_actor = "erc_ma_katavasias_ode8_actor"
+
+brc_ma_ode9_actor = "brc_ma_ode9_actor"
+erc_ma_ode9_actor = "erc_ma_ode9_actor"
+
+
+brc_ma_katavasias_ode11_actor = "brc_ma_katavasias_ode11_actor"
+erc_ma_katavasias_ode11_actor = "erc_ma_katavasias_ode11_actor"
+
+brc_ma_katavasias_ode31_actor = "brc_ma_katavasias_ode31_actor"
+erc_ma_katavasias_ode31_actor = "erc_ma_katavasias_ode31_actor"
+
+brc_ma_katavasias_ode41_actor = "brc_ma_katavasias_ode41_actor"
+erc_ma_katavasias_ode41_actor = "erc_ma_katavasias_ode41_actor"
+
+brc_ma_katavasias_ode51_actor = "brc_ma_katavasias_ode51_actor"
+erc_ma_katavasias_ode51_actor = "erc_ma_katavasias_ode51_actor"
+
+brc_ma_katavasias_ode61_actor = "brc_ma_katavasias_ode61_actor"
+erc_ma_katavasias_ode61_actor = "erc_ma_katavasias_ode61_actor"
+
+brc_ma_katavasias_ode71_actor = "brc_ma_katavasias_ode71_actor"
+erc_ma_katavasias_ode71_actor = "erc_ma_katavasias_ode71_actor"
+
+brc_ma_katavasias_ode81_actor = "brc_ma_katavasias_ode81_actor"
+erc_ma_katavasias_ode81_actor = "erc_ma_katavasias_ode81_actor"
+
+
+brc_ma_katavasias_ode12_actor = "brc_ma_katavasias_ode12_actor"
+erc_ma_katavasias_ode12_actor = "erc_ma_katavasias_ode12_actor"
+
+brc_ma_katavasias_ode32_actor = "brc_ma_katavasias_ode32_actor"
+erc_ma_katavasias_ode32_actor = "erc_ma_katavasias_ode32_actor"
+
+brc_ma_katavasias_ode42_actor = "brc_ma_katavasias_ode42_actor"
+erc_ma_katavasias_ode42_actor = "erc_ma_katavasias_ode42_actor"
+
+brc_ma_katavasias_ode52_actor = "brc_ma_katavasias_ode52_actor"
+erc_ma_katavasias_ode52_actor = "erc_ma_katavasias_ode52_actor"
+
+brc_ma_katavasias_ode62_actor = "brc_ma_katavasias_ode62_actor"
+erc_ma_katavasias_ode62_actor = "erc_ma_katavasias_ode62_actor"
+
+brc_ma_katavasias_ode72_actor = "brc_ma_katavasias_ode72_actor"
+erc_ma_katavasias_ode72_actor = "erc_ma_katavasias_ode72_actor"
+
+brc_ma_katavasias_ode82_actor = "brc_ma_katavasias_ode82_actor"
+erc_ma_katavasias_ode82_actor = "erc_ma_katavasias_ode82_actor"
+
+
+brc_ma_exaposteilarion_actor = "brc_ma_exaposteilarion_actor"
+erc_ma_exaposteilarion_actor = "erc_ma_exaposteilarion_actor"
 
 brc_ma_hierarchical_kairos = "brc_ma_hierarchical_kairos"
 erc_ma_hierarchical_kairos = "erc_ma_hierarchical_kairos"
