@@ -71,15 +71,15 @@ pdfno = "emphasis,pdfno"
 
 sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
 sbliparishapolytikionrubric = "emphasis,sbliparishapolytikionrubric"
-sbliparishfeastday = "emphasis,sbliparishfeastday"
+//sbliparishfeastday = "emphasis,sbliparishfeastday"
 
-sbhmakatavasias = "emphasis,sbhmakatavasias"
-sbhmaexaposteilaria = "emphasis,sbhmaexaposteilaria"
-sbhmalaudsmode = "emphasis,sbhmalaudsmode"
+//sbhmakatavasias = "emphasis,sbhmakatavasias"
+//sbhmaexaposteilaria = "emphasis,sbhmaexaposteilaria"
+//sbhmalaudsmode = "emphasis,sbhmalaudsmode"
 sbmadismissal = "emphasis,sbmadismissal"
 
-sbhvemode = "emphasis,sbhvemode"
-sbhvetrisagion = "emphasis,sbhvetrisagion"
+//sbhvemode = "emphasis,sbhvemode"
+//sbhvetrisagion = "emphasis,sbhvetrisagion"
 
 //new for sb
 //a=actor, d=dialog, r=rubric

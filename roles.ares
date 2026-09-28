@@ -440,6 +440,30 @@ erc_ve_vespers_introductory_psalm = "erc_ve_vespers_introductory_psalm"
 brc_ve_vespers_anoixantaria = "brc_ve_vespers_anoixantaria"
 erc_ve_vespers_anoixantaria = "erc_ve_vespers_anoixantaria"
 
+brc_ve_hierarchical_mode1 = "brc_ve_hierarchical_mode1"
+erc_ve_hierarchical_mode1 = "erc_ve_hierarchical_mode1"
+
+brc_ve_hierarchical_mode2 = "brc_ve_hierarchical_mode2"
+erc_ve_hierarchical_mode2 = "erc_ve_hierarchical_mode2"
+
+brc_ve_hierarchical_mode3 = "brc_ve_hierarchical_mode3"
+erc_ve_hierarchical_mode3 = "erc_ve_hierarchical_mode3"
+
+brc_ve_hierarchical_mode4 = "brc_ve_hierarchical_mode4"
+erc_ve_hierarchical_mode4 = "erc_ve_hierarchical_mode4"
+
+brc_ve_hierarchical_mode5 = "brc_ve_hierarchical_mode5"
+erc_ve_hierarchical_mode5 = "erc_ve_hierarchical_mode5"
+
+brc_ve_hierarchical_mode6 = "brc_ve_hierarchical_mode6"
+erc_ve_hierarchical_mode6 = "erc_ve_hierarchical_mode6"
+
+brc_ve_hierarchical_mode7 = "brc_ve_hierarchical_mode7"
+erc_ve_hierarchical_mode7 = "erc_ve_hierarchical_mode7"
+
+brc_ve_hierarchical_mode8 = "brc_ve_hierarchical_mode8"
+erc_ve_hierarchical_mode8 = "erc_ve_hierarchical_mode8"
+
 brc_ve_stichologia = "brc_ve_stichologia"
 erc_ve_stichologia = "erc_ve_stichologia"
 
@@ -508,6 +532,9 @@ erc_ve_lity_part5_theotokoshymn = "erc_ve_lity_part5_theotokoshymn"
 
 brc_ve_lity_part6_blessingofloaves = "brc_ve_lity_part6_blessingofloaves"
 erc_ve_lity_part6_blessingofloaves = "erc_ve_lity_part6_blessingofloaves"
+
+brc_ve_hierarchical_trisagion = "brc_ve_hierarchical_trisagion"
+erc_ve_hierarchical_trisagion = "erc_ve_hierarchical_trisagion"
 
 brc_ve_end = "brc_ve_end"
 erc_ve_end = "erc_ve_end"
@@ -620,9 +647,32 @@ erc_ma_katavasias_ode72_actor = "erc_ma_katavasias_ode72_actor"
 brc_ma_katavasias_ode82_actor = "brc_ma_katavasias_ode82_actor"
 erc_ma_katavasias_ode82_actor = "erc_ma_katavasias_ode82_actor"
 
-
 brc_ma_exaposteilarion_actor = "brc_ma_exaposteilarion_actor"
 erc_ma_exaposteilarion_actor = "erc_ma_exaposteilarion_actor"
+
+brc_ma_hierarchical_mode1 = "brc_ma_hierarchical_mode1"
+erc_ma_hierarchical_mode1 = "erc_ma_hierarchical_mode1"
+
+brc_ma_hierarchical_mode2 = "brc_ma_hierarchical_mode2"
+erc_ma_hierarchical_mode2 = "erc_ma_hierarchical_mode2"
+
+brc_ma_hierarchical_mode3 = "brc_ma_hierarchical_mode3"
+erc_ma_hierarchical_mode3 = "erc_ma_hierarchical_mode3"
+
+brc_ma_hierarchical_mode4 = "brc_ma_hierarchical_mode4"
+erc_ma_hierarchical_mode4 = "erc_ma_hierarchical_mode4"
+
+brc_ma_hierarchical_mode5 = "brc_ma_hierarchical_mode5"
+erc_ma_hierarchical_mode5 = "erc_ma_hierarchical_mode5"
+
+brc_ma_hierarchical_mode6 = "brc_ma_hierarchical_mode6"
+erc_ma_hierarchical_mode6 = "erc_ma_hierarchical_mode6"
+
+brc_ma_hierarchical_mode7 = "brc_ma_hierarchical_mode7"
+erc_ma_hierarchical_mode7 = "erc_ma_hierarchical_mode7"
+
+brc_ma_hierarchical_mode8 = "brc_ma_hierarchical_mode8"
+erc_ma_hierarchical_mode8 = "erc_ma_hierarchical_mode8"
 
 brc_ma_hierarchical_kairos = "brc_ma_hierarchical_kairos"
 erc_ma_hierarchical_kairos = "erc_ma_hierarchical_kairos"
