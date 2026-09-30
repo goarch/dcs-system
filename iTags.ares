@@ -69,7 +69,7 @@ pdfno = "emphasis,pdfno"
 //sbonly = "emphasis,sbonly"
 //sbparishname = "emphasis,sbparishname" this is now a role
 
-sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
+//sblieisodikonrefrain = "emphasis,sblieisodikonrefrain"
 sbliparishapolytikionrubric = "emphasis,sbliparishapolytikionrubric"
 //sbliparishfeastday = "emphasis,sbliparishfeastday"
 

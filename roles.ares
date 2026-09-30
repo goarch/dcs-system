@@ -716,6 +716,42 @@ erc_li_concelebration_small_entrance = "erc_li_concelebration_small_entrance"
 brc_li_hierarchical_small_entrance = "brc_li_hierarchical_small_entrance"
 erc_li_hierarchical_small_entrance = "erc_li_hierarchical_small_entrance"
 
+brc_li_entrance_hymn_refrain_jan01 = "brc_li_entrance_hymn_refrain_jan01"
+erc_li_entrance_hymn_refrain_jan01 = "erc_li_entrance_hymn_refrain_jan01"
+
+brc_li_entrance_hymn_refrain_jan06 = "brc_li_entrance_hymn_refrain_jan06"
+erc_li_entrance_hymn_refrain_jan06 = "erc_li_entrance_hymn_refrain_jan06"
+
+brc_li_entrance_hymn_refrain_feb02 = "brc_li_entrance_hymn_refrain_feb02"
+erc_li_entrance_hymn_refrain_feb02 = "erc_li_entrance_hymn_refrain_feb02"
+
+brc_li_entrance_hymn_refrain_mar25 = "brc_li_entrance_hymn_refrain_mar25"
+erc_li_entrance_hymn_refrain_mar25 = "erc_li_entrance_hymn_refrain_mar25"
+
+brc_li_entrance_hymn_refrain_aug06 = "brc_li_entrance_hymn_refrain_aug06"
+erc_li_entrance_hymn_refrain_aug06 = "erc_li_entrance_hymn_refrain_aug06"
+
+brc_li_entrance_hymn_refrain_sep14 = "brc_li_entrance_hymn_refrain_sep14"
+erc_li_entrance_hymn_refrain_sep14 = "erc_li_entrance_hymn_refrain_sep14"
+
+brc_li_entrance_hymn_refrain_dec25 = "brc_li_entrance_hymn_refrain_dec25"
+erc_li_entrance_hymn_refrain_dec25 = "erc_li_entrance_hymn_refrain_dec25"
+
+brc_li_entrance_hymn_refrain_palmsunday = "brc_li_entrance_hymn_refrain_palmsunday"
+erc_li_entrance_hymn_refrain_palmsunday = "erc_li_entrance_hymn_refrain_palmsunday"
+
+brc_li_entrance_hymn_refrain_ascension = "brc_li_entrance_hymn_refrain_ascension"
+erc_li_entrance_hymn_refrain_ascension = "erc_li_entrance_hymn_refrain_ascension"
+
+brc_li_entrance_hymn_refrain_pentecost = "brc_li_entrance_hymn_refrain_pentecost"
+erc_li_entrance_hymn_refrain_pentecost = "erc_li_entrance_hymn_refrain_pentecost"
+
+brc_li_entrance_hymn_refrain_resurrection = "brc_li_entrance_hymn_refrain_resurrection"
+erc_li_entrance_hymn_refrain_resurrection = "erc_li_entrance_hymn_refrain_resurrection"
+
+brc_li_entrance_hymn_refrain_saints = "brc_li_entrance_hymn_refrain_saints"
+erc_li_entrance_hymn_refrain_saints = "erc_li_entrance_hymn_refrain_saints"
+
 brc_li_apolytikion1 = "brc_li_apolytikion1"
 erc_li_apolytikion1 = "erc_li_apolytikion1"
 
