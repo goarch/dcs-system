@@ -707,6 +707,24 @@ erc_li_enarxis_no_deacon = "erc_li_enarxis_no_deacon"
 brc_li_enarxis_deacon = "brc_li_enarxis_deacon"
 erc_li_enarxis_deacon = "erc_li_enarxis_deacon"
 
+brc_li_antiphon1 = "brc_li_antiphon1"
+erc_li_antiphon1 = "erc_li_antiphon1"
+
+brc_li_antiphon2 = "brc_li_antiphon2"
+erc_li_antiphon2 = "erc_li_antiphon2"
+
+brc_li_antiphon3 = "brc_li_antiphon3"
+erc_li_antiphon3 = "erc_li_antiphon3"
+
+brc_li_typika1 = "brc_li_typika1"
+erc_li_typika1 = "erc_li_typika1"
+
+brc_li_typika2 = "brc_li_typika2"
+erc_li_typika2 = "erc_li_typika2"
+
+brc_li_beatitudes = "brc_li_beatitudes"
+erc_li_beatitudes = "erc_li_beatitudes"
+
 brc_li_small_entrance = "brc_li_small_entrance"
 erc_li_small_entrance = "erc_li_small_entrance"
 
