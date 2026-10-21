@@ -563,7 +563,6 @@ erc_ma_remove_matins_ordinary = "erc_ma_remove_matins_ordinary"
 brc_ma_ordination_subdeacon = "brc_ma_ordination_subdeacon"
 erc_ma_ordination_subdeacon = "erc_ma_ordination_subdeacon"
 
-
 brc_ma_actor_choir = "brc_ma_actor_choir"
 erc_ma_actor_choir = "erc_ma_actor_choir"
 
@@ -603,7 +602,6 @@ erc_ma_katavasias_ode8_actor = "erc_ma_katavasias_ode8_actor"
 brc_ma_ode9_actor = "brc_ma_ode9_actor"
 erc_ma_ode9_actor = "erc_ma_ode9_actor"
 
-
 brc_ma_katavasias_ode11_actor = "brc_ma_katavasias_ode11_actor"
 erc_ma_katavasias_ode11_actor = "erc_ma_katavasias_ode11_actor"
 
@@ -624,7 +622,6 @@ erc_ma_katavasias_ode71_actor = "erc_ma_katavasias_ode71_actor"
 
 brc_ma_katavasias_ode81_actor = "brc_ma_katavasias_ode81_actor"
 erc_ma_katavasias_ode81_actor = "erc_ma_katavasias_ode81_actor"
-
 
 brc_ma_katavasias_ode12_actor = "brc_ma_katavasias_ode12_actor"
 erc_ma_katavasias_ode12_actor = "erc_ma_katavasias_ode12_actor"
