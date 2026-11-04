@@ -202,6 +202,7 @@ peSV.AposBoth.text = ""
 peVE.MM.Stichera11as56.text = "" //for media
 peVE.MM.Stichera112as567.text = "" //for media
 peVE.MM.Stichera112233as345678.text = "" //for media
+peVE.MM.Stichera1123as1234.text = "" //for media
 peVE.MM.Stichera1123as3456.text = "" //for media
 peVE.MM.Stichera1123as5678.text = "" //for media
 peVE.MM.Stichera112345as345678.text = "" //for media
