@@ -9,7 +9,8 @@ mixed = "mixed"
 mode = "mode"
 name = "name"
 noprintdesig = "noprintdesig"
-smalldesig = "smallcenterboldred"
+smallcenter = "smallcenter"
+smalldesig = "smalldesig"
 titlezero = "titlezero"
 
 //roles with Para
